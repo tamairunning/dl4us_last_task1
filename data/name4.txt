@@ -1,0 +1,857 @@
+ butane-2,3-diol
+ thiolane 1-oxide
+ 3-fluoropropane-1,2-diol
+ 2,3-bis ( sulfanyl ) propan-1-ol
+ 2-methylprop-2-enoic acid
+ 1-ethylsulfinylethane
+ pentan-1-ol
+ 2,2,2-tribromoethanol
+ 2,2-dimethylpropan-1-ol
+ 2-methylbutan-2-ol
+ 2,2,2-trichloroacetaldehyde
+ 2-hydroperoxy-2-methylpropane
+ hydroxymethanesulfonic acid
+ 3-sulfanylpropanoic acid
+ 2,2-dichloroacetyl chloride
+ 2,2-dichloroacetic acid
+ 2,3-dibromopropan-1-ol
+ 1,3-dibromopropan-2-ol
+ pentan-3-one
+ 1,3-dichloropropan-2-ol
+ 3-sulfanylpropane-1,2-diol
+ methyl prop-2-enoate
+ methyl 2-chloroacetate
+ 2-methyloxolane
+ oxolan-2-one
+ 1,3-dioxolan-2-one
+ butane-1,3-diol
+ 3-hydroxybutanal
+ 3-chloropropanoic acid
+ 1-methoxypropan-2-ol
+ ethenyl acetate
+ pentanal
+ butane-1,4-diol
+ but-2-ene-1,4-diol
+ 1,2-dimethoxyethane
+ propyl formate
+ 1-chloro-2-ethenoxyethane
+ 2-ethylsulfanylethanol
+ 2-ethoxyethanol
+ 3,4-dihydro-2H-pyran
+ 1,3,5-trioxane
+ 2,2,2-tribromoacetaldehyde
+ 2-methylbut-3-en-2-ol
+ 2-methylbut-3-yn-2-ol
+ 2-methylbutan-1-ol
+ ethoxymethanedithioic acid
+ butanoyl chloride
+ 3-iodopropanoic acid
+ oxane
+ 6-oxabicyclo [ 3.1.0 ] hexane
+ oxalyl difluoride
+ 4-fluorobutan-1-ol
+ fluorosulfonyloxymethane
+ methyl 2-fluoroacetate
+ oxolan-3-ol
+ 3-fluoropropanoic acid
+ 2-methylbut-2-enal
+ 2-chloropropane-1,3-diol
+ but-3-ene-1,2-diol
+ 2-oxopropanedial
+ 2H-furan-5-one
+ 2-methyl-1,3-dioxolane
+ 3-methylsulfanylpropan-1-ol
+ 1,3-dioxane
+ 1,1-dichloropropan-2-one
+ 1,3-dichloropropan-2-one
+ 1,1-dimethoxyethane
+ 2-methylfuran
+ ethyl carbonochloridate
+ methyl propanoate
+ 3-ethoxyprop-1-ene
+ 3-methylbutan-2-one
+ 3-chlorobutan-2-ol
+ 2- ( oxiran-2-yl ) oxirane
+ pentan-3-ol
+ butane-1,2-diol
+ 3-bromopropanoic acid
+ ethanesulfonyl chloride
+ ethanesulfonic acid
+ 2-bromopropanoic acid
+ 3-methylbutan-2-ol
+ 2-chloropropanoic acid
+ 2-chloroprop-2-enoic acid
+ 2,3-dichloropropan-1-ol
+ pent-1-en-3-ol
+ dimethyl carbonate
+ pent-4-en-2-ol
+ pent-3-en-2-one
+ 1-methoxy-2-methylpropane
+ 2-methoxyacetic acid
+ 2-ethoxypropane
+ propan-2-yl formate
+ 1-methoxybutane
+ 1-ethoxypropane
+ 1-chloro-2-ethoxyethane
+ 2,2-dimethylpropanal
+ 2,2-dibromoacetic acid
+ butanedial
+ 1-chlorobut-3-en-2-ol
+ 4-methylideneoxetan-2-one
+ 3-chlorobut-3-en-2-one
+ 3-methylbut-3-en-1-ol
+ pent-2-enal
+ 2-ethenoxyethanol
+ 1-cyclopropylethanone
+ methyl dihydrogen phosphate
+ 3-bromobutan-2-one
+ 3-methylbut-3-en-2-one
+ 1-bromobutan-2-one
+ pent-4-en-1-ol
+ methoxyphosphonoyloxymethane
+ 1,3-dioxol-2-one
+ 2-chloro-2-methylpropanal
+ 2-methylprop-2-enoyl chloride
+ methyl prop-2-ynoate
+ 2-ethenoxypropane
+ 4-chlorobutan-1-ol
+ 1-ethoxyprop-1-ene
+ 3-methylfuran
+ cyclopent-2-en-1-one
+ 2- ( methoxymethyl ) oxirane
+ thiolan-2-one
+ 2-propyloxirane
+ 1-ethenylsulfinylethene
+ 2-methoxypropan-1-ol
+ 5-methyl-2,3-dihydrofuran
+ 2-methylcyclobutan-1-one
+ pent-3-en-2-ol
+ pent-2-en-1-ol
+ pent-1-en-3-one
+ 2-methoxy-2-methylpropane
+ cyclopropanecarboxylic acid
+ pent-4-enal
+ 3-chloroprop-2-enoic acid
+ methyl 2-sulfanylacetate
+ dichloro-methoxy-sulfanylidene-$l^{5}-phosphane
+ 3,3-dichloroprop-2-enal
+ S- ( chloromethyl )  ethanethioate
+ S-ethyl chloromethanethioate
+ methylsulfonylsulfanylmethane
+ 1-methoxybuta-1,3-diene
+ 4-methyloxetan-2-one
+ cyclopenten-1-ol
+ 3-methylsulfanylpropanal
+ 1-methylsulfonylethene
+ but-2-enoic acid
+ 3-chlorobutan-2-one
+ 1- ( oxiran-2-yl ) ethanone
+ 1-bromo-3-chloropropan-2-ol
+ 3-methoxyprop-2-enal
+ 2-methylbut-2-en-1-ol
+ 2,2,3-trimethyloxirane
+ ethoxycyclopropane
+ 1-methoxypropan-2-one
+ pentan-2-ol
+ 2,2-dimethyloxetane
+ 2-methoxybutane
+ 3,3-dimethyloxetane
+ 1-chloro-1-ethoxyethane
+ 2,2-dichloroacetate
+ cyclobutane-1,3-dione
+ 1,4-oxathiane
+ 1-methylphosphonoyloxyethane
+ hydroxymethylperoxymethanol
+ 2-ethoxyethanethiol
+ 2- ( methoxymethyl ) thiirane
+ 2-chloroprop-2-enoyl chloride
+ 1,4-dioxane
+ iodomethanesulfonic acid
+ 2-bromobut-2-enal
+ but-3-enoic acid
+ 4-methyl-2,3-dihydrofuran
+ 2-hydroxyprop-2-enoic acid
+ 3-sulfanylbutan-2-one
+ but-2-ene-1,2-diol
+ 3-bromobut-3-en-2-one
+ 1,1-dichloropropan-1-ol
+ 1-bromobut-3-en-2-ol
+ 3-iodoprop-2-enoic acid
+ 2-bromo-3-chloropropan-1-ol
+ 2-chlorobut-3-en-1-ol
+ 3,3-dichloropropan-1-ol
+ methyl 2-bromoacetate
+ 1-bromo-2-ethoxyethane
+ S-ethyl ethanethioate
+ ethylperoxyethane
+ penta-2,4-dienal
+ thiolan-3-one
+ prop-2-enyl formate
+ 4-sulfanylbutan-2-one
+ 3-sulfanylbutan-2-ol
+ 2-methylpropanoyl chloride
+ 2-sulfanylpropanoic acid
+ 2-chlorosyl-2-methylpropane
+ ethenesulfonic acid
+ chloromethyl carbonochloridate
+ propaneperoxoic acid
+ 2,2,2-trifluoroacetaldehyde
+ oxalyl dichloride
+ 4-methyl-1,3-dioxolane
+ pent-3-yn-1-ol
+ 3-methylbut-3-en-2-ol
+ methyl 2-hydroxyacetate
+ 3,6-dioxabicyclo [ 3.1.0 ] hexane
+ chloromethanesulfonyl fluoride
+ 1,3-difluoropropan-2-ol
+ 2-fluoropropane-1,3-diol
+ butanoyl fluoride
+ 4-fluorobutanal
+ 1,3-diiodopropan-2-ol
+ 1-chloro-2-methylpropan-2-ol
+ 2-methylpropane-1,2-diol
+ 1,3-bis ( sulfanyl ) propan-2-ol
+ but-2-ynoic acid
+ bromomethyl acetate
+ 1-chlorobutan-2-one
+ dimethyl sulfite
+ 3-chloropropanoyl chloride
+ chloromethyl acetate
+ 2-hydroxyethyl formate
+ dichlorophosphoryloxymethane
+ ethenesulfonyl fluoride
+ pent-3-en-1-ol
+ 1-ethenoxypropane
+ chlorosulfonyloxymethane
+ 1,3-dibromopropan-2-one
+ 2-chloro-1,3,2-dioxaphospholane
+ 2-methylidenebutanal
+ penta-1,4-dien-3-ol
+ methyl 2-oxoacetate
+ 1-dichlorophosphorylethane
+ 1,3-oxathiolan-2-one
+ dichloro ( ethoxy ) phosphane
+ trifluoro ( methoxy ) methane
+ 1-dichlorophosphorylethene
+ 3-methoxypropan-1-ol
+ chloro ( dimethylphosphoryl ) methane
+ 2,2-dibromoacetyl bromide
+ chloro ( dichlorophosphoryl ) methane
+ 2-bromopropanedial
+ 2-methylpropane-1,3-diol
+ formyl acetate
+ but-2-enedial
+ 2-methylsulfanylacetic acid
+ chloromethylphosphonic acid
+ hydroxymethylphosphonic acid
+ pent-4-en-2-yn-1-ol
+ 2-methylidenepropane-1,3-diol
+ chloromethanesulfonyl chloride
+ 1,3,2-dioxathiolane 2-oxide
+ cyclopropanecarbonyl chloride
+ cyclobutylmethanol
+ ethenyl carbonochloridate
+ 1,4-dioxine
+ trifluoromethyl hypofluorite
+ 2,3-dihydroxyprop-2-enal
+ 2-bromopropanoyl bromide
+ 1-methylsulfonylethane
+ but-2-enoyl chloride
+ 1-cyclopropylethanol
+ 2,2-dibromoacetyl chloride
+ pent-4-yn-1-ol
+ 2,2,2-triiodoacetaldehyde
+ dimethylphosphorylmethanol
+ dimethoxy ( sulfanylidene ) -$l^{5}-phosphane
+ pent-2-yn-1-ol
+ 1,3-diiodopropan-2-one
+ 4-chlorobutan-2-one
+ chlorosulfinyloxyethane
+ 2-bromoprop-2-enoic acid
+ furan-2-thiol
+ 1- [ chloro ( methyl ) phosphoryl ] ethane
+ pent-4-en-2-one
+ cyclopent-3-en-1-one
+ oxalyl dibromide
+ 3-bromopropanoyl chloride
+ 2,2-dichloroethane-1,1-diol
+ 2,2,3,3,5,5,6,6-octadeuterio-1,4-dioxane
+ 2-methylprop-2-enoate
+ methoxycyclobutane
+ ethanebis ( thioic S-acid ) 
+ 1,3-dioxolane-2-thione
+ 2-hydroxy-2-methylpropanal
+ 3-bromofuran
+ 2-ethoxyacetaldehyde
+ 1-bromo-2-ethoxyethene
+ 1-chloro-3-hydroxypropan-2-one
+  ( 2S ) -2-bromo-2-chloroacetic acid
+  ( 2R ) -2-bromo-2-chloroacetic acid
+  ( 2S ) -2- [  ( 2S ) -oxiran-2-yl ] oxirane
+ propan-2-yloxymethanol
+ 1-chloro-3-fluoropropan-2-ol
+ 3-iodopropane-1,2-diol
+ 2-ethenyl-2-methyloxirane
+ 2,3-dibromopropanal
+  ( 2R ) -2- [  ( 2R ) -oxiran-2-yl ] oxirane
+ pent-4-yn-2-ol
+ pent-1-yn-3-ol
+ oxolan-2-ol
+ 2,3-dichloropropanal
+ 4-hydroxybutanal
+ 2-chloro-2,2-difluoroacetaldehyde
+ oxirane-2-carboxylic acid
+ 2-methylbut-3-en-1-ol
+ 1-methoxybut-1-ene
+ 2-chlorobut-2-enal
+ 2,3-dibromoprop-2-en-1-ol
+ dimethyl hydrogen phosphite
+ 2- ( chloromethyl ) -2-methyloxirane
+ 2-methoxyacetyl chloride
+  ( 2-methyloxiran-2-yl ) methanol
+ pent-2-en-4-yn-1-ol
+ 1-methylsulfanylpropan-2-ol
+ 2-bromopropanoyl chloride
+ 1-methoxybut-1-en-3-yne
+ 3-methyloxolane
+ 2-chloro-2-fluoroacetic acid
+ 2-methylpropanedial
+ methylsulfanyl ( methylsulfinyl ) methane
+ 2-methoxybuta-1,3-diene
+ 2- ( 2-bromoethyl ) oxirane
+ 3-hydroxy-2-oxopropanal
+ 2-methylbut-3-yn-1-ol
+ 2-propan-2-yloxirane
+ 3-methyl-2,3-dihydrofuran
+ 2-methyloxirane-2-carbaldehyde
+ ethyl ( methyl ) phosphinic acid
+ ethenyl ( methyl ) phosphinic acid
+ ethyl hydrogen carbonate
+ sulfanylmethanesulfonic acid
+ 2-oxopropanoate
+  ( 2S ) -2-chloropropanoic acid
+ 2-methoxypropanal
+ 1-chloro-3-sulfanylpropan-2-ol
+ 2-chloropropanoyl chloride
+ pent-3-enal
+ 2-methoxybut-2-ene
+ 2,3-dibromooxetane
+ 4-hydroxybutan-2-one
+ trichloro ( hydroperoxy ) methane
+ chloro- [ chloro ( methyl ) phosphoryl ] methane
+ 4-bromobutan-1-ol
+ 1,1-dichloro-2-methoxyethane
+ 1- [ chloro ( methyl ) phosphoryl ] ethene
+ 1-chloro-3-methoxypropane
+ 1,2,2-trichloroethanol
+  ( 2R,3S ) -2-chloro-3- ( chloromethyl ) oxirane
+ 1-chloroethanesulfinic acid
+ 2-ethyl-2-methyloxirane
+ but-1-ene-1,4-diol
+ 3-chloro-2-methoxyprop-1-ene
+ 1,3-dithiolan-2-one
+ 2-$l^{1}-oxidanyloxy-2-methylpropane
+ 1-hydroperoxybutane
+ 2,2,2-trifluoroethanone
+ 1-methylsulfinylpropane
+ trifluoro ( $l^{1}-oxidanyloxy ) methane
+ difluorophosphoryloxymethane
+ methyl chlorosulfanylformate
+ 3-chloro-2-hydroxypropanal
+ 2- ( bromomethyl ) -3-chlorooxirane
+ 2-oxopropanoic acid
+ 4H-pyran
+ 2,3-dihydro-1,4-dioxine
+ 1,1-dimethoxyethene
+ 2-ethoxyprop-1-ene
+ O-ethyl ethanethioate
+ 1-chloro-2-ethoxyethene
+ dimethoxymethanethione
+ 1,3-dithiol-2-one
+ but-3-ynoic acid
+ 2-cyclopropylethanol
+  ( 1-methylcyclopropyl ) methanol
+ 3-methoxypropanal
+ 2-chlorofuran
+ 2H-thiophen-5-one
+ chloro ( dimethoxy ) phosphane
+ 4-methylidene-1,3-dioxolane
+ methoxymethyl formate
+ 1-ethenoxypropa-1,2-diene
+ dioxane
+  ( 2-methylcyclopropyl ) methanol
+ 2H-thiete 1,1-dioxide
+ pent-3-yn-2-one
+ cyclopenta-2,4-dien-1-one
+ 2,2-dichloroethanethioic S-acid
+ 2-methylsulfinylpropane
+ 2-methylthiirene 1,1-dioxide
+ pent-1-yn-3-one
+ dichlorophosphorylsulfanylmethane
+ 3,6-dihydro-1,2-dioxine
+ O-methyl methylsulfanylmethanethioate
+ 1-methylcyclobutan-1-ol
+ 3H-furan-2-one
+ 1-ethenoxyprop-1-ene
+ 2-methoxybut-1-ene
+ pent-4-yn-2-one
+ pent-3-yn-2-ol
+ 3-iodofuran
+ 3-iodobutan-2-one
+ cyclobut-3-ene-1,2-dione
+ cyclobutane-1,2-dione
+ 3-methylbut-2-en-2-ol
+ 1,3-dioxole-2-thione
+ pent-2-ynal
+ propan-2-yl deuterioformate
+ 1,3-dithietane 1,1-dioxide
+ 1,3-dithietane 1,3-dioxide
+ 3-methylbuta-1,2-dien-1-one
+ dibromophosphoryloxymethane
+ hydroxymethyl acetate
+ 2- ( dichloromethyl ) oxirane
+ 2-oxobutanal
+ 2- ( hydroxymethyl ) cycloprop-2-en-1-one
+ 2-sulfanylprop-2-enoic acid
+ 1,2-bis ( sulfanyl ) propan-1-ol
+ 2-chloropropanedial
+ 3-methylbut-1-yn-1-ol
+  ( 2S,3S ) -2- ( bromomethyl ) -3-chlorooxirane
+ 1-bromo-3-chloropropan-2-one
+  ( 2R ) -3-chloropropane-1,2-diol
+  ( 2S ) -3-chloropropane-1,2-diol
+  ( 2R,3R ) -2-chloro-3- ( chloromethyl ) oxirane
+ 2,3-dichloroprop-2-enal
+ 1-fluoro-3-hydroxypropan-2-one
+ 2-iodopropanoic acid
+ penta-2,4-dien-1-ol
+ 3-methylbut-1-en-1-ol
+ 2-prop-1-en-2-yloxirane
+ dichloro-fluoro-$l^{1}-oxidanyloxymethane
+ 1-$l^{1}-oxidanyloxypropan-2-one
+ dideuterio oxalate
+ 2,3-dichloroprop-2-en-1-ol
+ 2-methoxyacetate
+ trihydroxy ( methoxy ) -$l^{4}-sulfane
+ 1,2-dichloro-1-methoxyethane
+ 4-hydroxybut-2-enal
+ 2,2-dichloro-2-fluoroethanol
+ 4-hydroxybut-3-en-2-one
+ 2-methylpropanoate
+ 6-oxabicyclo [ 3.1.0 ] hex-2-ene
+ butane-1,1-diol
+ 1-deuterio-2,2,2-trifluoroethanone
+ 2-oxobut-3-enal
+ ethenylphosphonic acid
+ 2-bromo-3-hydroxyprop-2-enal
+ 4-iodobutanal
+ pent-1-en-2-ol
+  ( E ) -but-2-ene-1,4-diol
+ tribromo ( $l^{1}-oxidanyloxy ) methane
+ 1-$l^{1}-oxidanyloxybutane
+ methoxy-bis ( sulfanyl ) -sulfanylidene-$l^{5}-phosphane
+ 1,3-bis ( sulfanyl ) propan-1-ol
+ 2-chlorooxolane
+ furan-2-ol
+ 3-$l^{1}-oxidanyloxypropan-1-ol
+ 1-ethenylsulfinylethane
+ 2,2-dibromo-2-chloroacetaldehyde
+ 1,2-dichloropropan-1-ol
+ chloro-difluoro-$l^{1}-oxidanyloxymethane
+ 1-chloro-2-methoxypropane
+ 3-chloro-2-methylprop-2-enal
+ 1,3-dichloropropan-1-ol
+ 1,1,2-trifluoroethanol
+ 2-hydroxyethyl ( dimethyl ) sulfanium
+ 2H-pyran
+ 3-chloro-2,2-difluorooxirane
+ chloromethanesulfonic acid
+ furan-3-ol
+ 2-hydroxyethanesulfinic acid
+ 3-fluoro-2-oxopropanal
+ S-methylsulfanyl ethanethioate
+ 4-chlorobut-2-yn-1-ol
+ 3-hydroxy-2-sulfanylpropanal
+ ethylphosphonic acid
+ 2-methylpropanethioic S-acid
+  ( 2R ) -3-fluoropropane-1,2-diol
+  ( 2S ) -3-fluoropropane-1,2-diol
+ 2-iodopropane-1,3-diol
+  ( 2R,3S ) -butane-2,3-diol
+ 1-chloro-2-methylsulfinylethane
+ cyclopent-2-en-1-ol
+ 3-ethenoxyprop-1-ene
+ ethenoxycyclopropane
+ oxadithiolane 2-oxide
+ 1-chloro-3-fluoropropan-2-one
+ 1,3-difluoropropan-2-one
+ 3,3-dichloroprop-2-en-1-ol
+ 2- ( 1-chloroethenyl ) oxirane
+  ( 2R ) -2- [  ( 2S ) -oxiran-2-yl ] oxirane
+  ( 3-methyloxiran-2-yl ) methanol
+ 2-hydroxy-1,3,2-dioxaphospholane
+ 4-chlorobutanal
+ 2-chloroethyl formate
+ 2-hydroxypropanethioic S-acid
+ 2-fluoropropanoic acid
+ thietane 1,1-dioxide
+ propane-1-sulfinate
+ 2-methylsulfanylpropan-2-ol
+ cyclopent-3-en-1-ol
+  [ hydroxymethyl ( methyl ) phosphanyl ] methanol
+ oxathiolane 2-oxide
+ 3-chloro-2-methylprop-2-en-1-ol
+ 3-bromo-2-methylprop-2-en-1-ol
+ 3-bromoprop-2-enoic acid
+ 2-methylsulfinylethanol
+ 2-hydroxy-3-sulfanylpropanethial
+ S-propan-2-yl methanethioate
+ 1,3-bis ( sulfanyl ) propan-2-one
+ 2,3-dichloroprop-1-en-1-ol
+ bis ( methylsulfanyl ) methanone
+ thiolan-3-ol
+ 3-methylthietane 1-oxide
+ methoxy ( methyl ) phosphinic acid
+ 4-methoxybut-1-ene
+ 4-methylidenecyclobut-2-en-1-one
+ 3-methoxybut-1-yne
+ ethenyl hydrogen sulfite
+ 1-dimethylphosphorylethane
+ 1,2,4-trithiolane 1-oxide
+ 1,2,4-trithiolane 4-oxide
+ trihydroxy-methyl-oxo-$l^{6}-sulfane
+ ethyl ( sulfanyl ) phosphinic acid
+ bromomethanesulfonic acid
+ ethyl hydrogen sulfite
+ 3-hydroxyprop-2-enoic acid
+  [  ( 3S ) -dioxetan-3-yl ] methanol
+ sulfanylmethylphosphonic acid
+  ( Z ) -prop-1-ene-1,2,3-triol
+ prop-1-ene-1,2,3-triol
+  ( E ) -prop-1-ene-1,2,3-triol
+  ( 3S ) -butane-1,3-diol
+  ( 2R ) -3-sulfanylpropane-1,2-diol
+  ( E ) -3-hydroxyprop-2-enoic acid
+ propane-1,1,2-triol
+ butanoic acid
+ 2-oxopropanoic acid
+ 2-hydroxypropanoic acid
+ but-3-enoic acid
+ 2-oxopropanoic acid
+ 2-hydroxypropanoic acid
+ oxalic acid
+ butanoyl chloride
+ cyclopropanecarbonyl chloride
+ trifluoromethyl hypofluorite
+ methyl 2-fluoranylacetate
+ 3,4,5,6-tetrahydro-2H-pyran-1-ium-6-ide
+  ( E ) -pent-3-en-1-ol
+  [ deuterio ( methoxy ) phosphoryl ] oxymethane
+ 4-methyl-1,3-dioxole
+ 2-methyl-1,3-oxathiolane
+ 3-methoxy-2-methylprop-1-ene
+ 1-bromobutan-2-ol
+ 2-methylpropanoyl bromide
+  ( 2-methylidenecyclopropyl ) methanol
+ 2-ethenylsulfanylethanol
+ methyl ethanesulfinate
+ 3,6-dihydro-2H-pyran
+ 2-ethyl-3-methyloxirane
+  [ fluoro ( methyl ) phosphoryl ] oxymethane
+ 1-bromo-3-chloropropan-1-ol
+ ethyl carbonofluoridate
+ 2-ethyloxetane
+ tert-butyl hypochlorite
+ 1-hydroxybutan-2-one
+ 2-oxopropanoyl chloride
+ S-methyl propanethioate
+ trichloro ( $l^{1}-oxidanyloxy ) methane
+ 1,2-dimethoxyethene
+ ethanesulfonyl fluoride
+ 1-bromo-2-methoxypropane
+ 2-bromo-1-methoxypropane
+ 3-chlorooxolane
+ 1-bromo-3-methoxypropane
+ methoxymethoxyethane
+ 1-chloro-2-methoxyprop-1-ene
+ 3-methylthietan-2-one
+ 5-methyloxadithiole
+ 2-methyl-3-sulfanylpropanal
+ 3-sulfanylbutanal
+ 4-methyloxathiolane
+ 2-methyl-3-sulfanylpropan-1-ol
+ 1-oxaspiro [ 2.3 ] hexane
+ 3-ethyloxetane
+ oxolan-3-one
+ furan-3-thiol
+ furan-3-one
+ 2-methylsulfanylpropanal
+ 1-sulfanylbutan-2-one
+ ethenesulfonyl chloride
+ 3-methyl-2,5-dihydrofuran
+ 3-bromobut-3-en-1-ol
+ penta-3,4-dienal
+ 2-ethenyl-3-methyloxirane
+ dithiolane 1-oxide
+ 3-bromo-2-methylpropan-1-ol
+ 2,4-dimethyloxetane
+ prop-1-en-2-yl formate
+ 1-dimethylphosphanylethanone
+ 1-bromo-1-chloropropan-2-one
+ 1,1-dibromopropan-2-one
+ 4-methoxybut-1-yne
+ 2-chloro-1-methoxypropane
+ 1,3-oxathiane
+ dichloro ( chloromethoxy ) methane
+ 2-bromo-2-chloroacetic acid
+ 1,2-dichloro-1-hydroperoxyethane
+ penta-1,4-dien-3-one
+ S-methyl prop-2-enethioate
+ 2-iodobutan-1-ol
+ prop-2-yne-1-sulfinate
+ cyclobuten-1-ylmethanol
+ 1-ethylcyclopropan-1-ol
+ methoxymethylcyclopropane
+ 1-sulfanylbutan-2-ol
+ 1-chlorobutan-2-ol
+ 1-bromo-2-methylpropan-2-ol
+ 1-iodo-2-methylpropan-2-ol
+ 4-sulfanylbutan-1-ol
+ 2- ( methylsulfanylmethyl ) oxirane
+ but-2-enoyl bromide
+ 1-methoxybut-2-yne
+ 1-methoxybut-2-ene
+ 1-methoxy-2-methylprop-1-ene
+ 3-methoxybut-1-ene
+ 4-methyl-1,3-oxathiolane
+ prop-2-ene-1-sulfinic acid
+ ethyl methanesulfinate
+ 2-methylidenecyclopropane-1-carbaldehyde
+ 2-bromo-2,2-dichloroacetaldehyde
+ 5-methyl-1,3-oxathiolane
+ 2-bromo-2-methylpropanal
+ 1,3-dithiolane 1-oxide
+ bromo ( dibromophosphoryl ) methane
+ but-2-ene-2,3-diol
+  ( 3R ) -butane-1,3-diol
+  ( E ) -but-2-ene-2,3-diol
+  ( E ) -pent-3-en-2-one
+  ( E ) -1,2-dimethoxyethene
+  ( E ) -3-chloroprop-2-enoic acid
+  ( E ) -3-bromoprop-2-enoic acid
+  ( E ) -3-iodoprop-2-enoic acid
+  ( E ) -3-chloro-2-methylprop-2-en-1-ol
+  ( 2S ) -2-bromopropanoic acid
+  ( 2S ) -2-methoxypropan-1-ol
+  ( E ) -but-2-enoyl chloride
+  ( E ) -1-methoxybut-1-en-3-yne
+ 3-methoxythietane
+  ( Z ) -but-2-ene-1,4-diol
+  ( Z ) -but-2-enoic acid
+  ( Z ) -3-chloroprop-2-enoic acid
+  ( Z ) -3-bromoprop-2-enoic acid
+  ( 2R,3R ) -3- ( hydroxymethyl ) oxiran-2-ol
+ methanesulfonoperoxoate
+  ( 2S ) -2-propyloxirane
+  ( 2R ) -2-propyloxirane
+ ethoxymethanedithioate
+  ( 2S ) -2-methylbutan-1-ol
+ 2,2-dihydroxyacetic acid
+ iodo-trimethyl-oxo-$l^{6}-sulfane
+  ( 2R ) -2-chloropropanoic acid
+ 1,1-dideuterio-1-deuteriooxy-2,2,2-trifluoroethane
+ 1,1,2,2,3,3,4,4-octadeuterio-1,4-dideuteriooxybutane
+  ( 2S ) -pentan-2-ol
+ 1-ethenylcyclopropan-1-ol
+  ( 3S ) -oxolan-3-ol
+  ( 2R ) -2-methoxypropan-1-ol
+  ( 2R ) -1-methoxypropan-2-ol
+  ( 2R ) -3-bromopropane-1,2-diol
+  ( 2R ) -2- ( methoxymethyl ) oxirane
+  [  ( 2R ) -2-methyloxiran-2-yl ] methanol
+ 2,2-difluoroacetyl chloride
+ 3-fluorobutan-2-one
+ 2-bromofuran
+ 2,2-difluoroacetyl fluoride
+ 2-bromo-2-fluoroacetic acid
+ 2-fluoro-2-iodoacetic acid
+ 2-fluoroprop-2-enoic acid
+ 2-fluoroprop-2-enoyl chloride
+ hydroxy-methoxy-methyl-sulfanylidene-$l^{5}-phosphane
+ 3-hydroxy-1,3$l^{5}-thiaphosphetane 3-oxide
+ methoxy-methyl-sulfanyl-sulfanylidene-$l^{5}-phosphane
+ chloro-methoxy-methyl-sulfanylidene-$l^{5}-phosphane
+ prop-2-enylphosphinic acid
+ 2-chloro-2-fluoroacetyl chloride
+ 2-methylprop-2-enoyl fluoride
+ 3-chlorobut-2-enal
+ 1-ethenylsulfanylethanol
+ 1-hydroxyethanesulfinic acid
+ propoxymethanol
+ 2- ( hydroxymethoxy ) ethanol
+ 2,2-bis ( sulfanyl ) acetic acid
+ 1-sulfanylpropane-1,1-diol
+ 4-bromobutanal
+ ethane-1,1,2,2-tetrol
+ acetylphosphinic acid
+ 3-chlorofuran
+ 2-chloro-1-methoxyethanol
+ propane-1,1,1-triol
+ 1-oxoethanesulfinic acid
+ 3-bromo-2-oxopropanal
+ 3-methylsulfanylprop-2-enal
+ 2-methylidenebut-3-yn-1-ol
+ cyclobutane-1,3-diol
+ 1-methoxypropan-1-ol
+  ( E ) -2,3-dihydroxyprop-2-enal
+ 1-chloropropane-1,3-diol
+ 1,3,2$l^{5}-dioxaphospholane 2-oxide
+ 3-hydroxy-2-methylprop-2-enal
+  ( Z ) -2,3-dihydroxyprop-2-enal
+ 3-sulfanylpropanethioic S-acid
+ 1-hydroxy-3-iodopropan-2-one
+  ( 2S ) -2,3-bis ( sulfanyl ) propan-1-ol
+ 1-hydroperoxy-2-oxidooxyethyne
+ dihydroxy-methyl-oxido-oxo-$l^{6}-sulfane
+ 1,1-difluoropropan-2-one
+ 4-iodobut-3-yn-1-ol
+ dioxidophosphanylformate
+ dihydroxyphosphanylformic acid
+ 2-bromo-2-fluoroacetate
+  ( hydroxy-methoxy-oxo-$l^{6}-sulfanylidene ) oxidanium
+ ethyl-oxido-oxo-sulfanylidene-$l^{6}-sulfane
+ 4-sulfanylbutan-2-ol
+ 2-hydroxy-2-oxoacetate
+ ethanesulfonate
+ 2-fluoro-2-iodoacetate
+  ( oxoniocarbonylformyl ) oxidanium
+ but-2-enoyloxidanium
+ butanoyloxidanium
+ chloromethanesulfonate
+ 2,2,2-trifluoroethanone
+ 2-ethoxyethyloxidanium
+  ( 2,2-dichloroacetyl ) oxidanium
+  [ carboxy ( hydroxy ) methylidene ] oxidanium
+ 2-oxo-2-oxonioacetate
+ 2-chloro-2-fluoroacetate
+ 2-chloro-2,2-difluoroethanol
+ methoxymethanesulfinate
+ oxalooxidanium
+ hydroxymethanesulfonate
+ bromomethanesulfonate
+ dimethoxy ( methyl ) phosphane
+ 2-methylpropanoyloxidanium
+ 2-bromo-2-chloropropan-1-ol
+ prop-2-ene-1-sulfinate
+ 1-methoxy-2-methylsulfanylethane
+ 2-hydroxypropanedial
+ 3-bromoprop-2-ynoic acid
+ ethenesulfonate
+ 1,1-difluoroethane-1,2-diol
+ 3-oxobutanal
+ methyl sulfate
+ hydroxy ( dimethoxy ) phosphanium
+ butanethioic S-acid
+ but-2-enethioic S-acid
+ cyclopropanecarbothioic S-acid
+ 2-methyl-1-sulfanylpropan-1-ol
+ ethoxymethanethioic S-acid
+ ethene-1,1,2,2-tetrol
+ 3-oxobut-1-en-1-olate
+ 2-methylbutan-2-olate
+ 1-bromo-2- ( chloromethoxy ) ethane
+ 2-methylsulfanylacetate
+ methoxysulfonyloxidanium
+ ethoxymethanediol
+ 3H-dithiol-3-ol
+ 2-methylprop-2-ene-1,1-diol
+ 2,4-dimethyl-1,3-dioxetane
+ but-2-ene-1,1-diol
+ 1,2-bis ( sulfanyl ) ethane-1,2-diol
+ cyclopenten-1-olate
+ 2,2-difluoroethane-1,1-diol
+ 2-methylsulfanylethane-1,1-diol
+ 2-chloropropane-1,1-diol
+  ( E ) -but-2-enedial
+ phosphonatomethanethiol
+  ( E ) -2-methylbut-2-enal
+  ( E ) -1-chloro-2-methoxyprop-1-ene
+  ( Z ) -3-chloro-2-methylprop-2-en-1-ol
+ 1,2-bis ( $l^{1}-oxidanyl ) ethane-1,2-dione
+  ( Z ) -1-ethoxyprop-1-ene
+  ( 1Z ) -1-methoxybuta-1,3-diene
+  ( Z ) -pent-2-en-4-yn-1-ol
+  ( Z ) -2-chlorobut-2-enal
+  ( Z ) -pent-3-en-2-one
+  ( 2Z ) -penta-2,4-dienal
+  ( Z ) -1-methoxybut-1-en-3-yne
+ 3-$l^{1}-sulfanylpropane-1,2-diol
+  ( Z ) -pent-3-en-1-ol
+  ( E ) -pent-2-enal
+  ( Z ) -pent-2-en-1-ol
+  ( E ) -pent-2-en-1-ol
+  ( E ) -1-ethoxyprop-1-ene
+  ( E ) -but-2-enoyl bromide
+  ( Z ) -1-methoxybut-2-ene
+  ( E ) -1-methoxybut-2-ene
+  ( Z ) -1-methoxybut-1-ene
+  ( E ) -1-methoxybut-1-ene
+  ( E ) -pent-3-en-2-ol
+  ( Z ) -2-methylbut-2-en-1-ol
+ methyl propanoate
+  ( Z ) -but-2-ene-2,3-diol
+  ( Z ) -1-bromo-2-ethoxyethene
+  ( 1E ) -1-methoxybuta-1,3-diene
+  ( Z ) -1-chloro-2-ethoxyethene
+  ( E ) -1-chloro-2-ethoxyethene
+  ( Z ) -1-ethenoxyprop-1-ene
+  ( E ) -1-ethenoxyprop-1-ene
+  ( Z ) -2-methoxybut-2-ene
+  ( E ) -2-methoxybut-2-ene
+  ( E ) -pent-2-en-4-yn-1-ol
+  ( E ) -pent-3-enal
+  ( Z ) -1,2-dimethoxyethene
+  ( E ) -pent-2-en-2-ol
+ 1,1,1-trifluoro-2-$l^{1}-oxidanylethane
+ 2-methyloxolane
+ methyl 2-$l^{1}-sulfanylacetate
+ 1-$l^{1}-oxidanyl-2,2-dimethylpropane
+ 1-$l^{1}-oxidanylpentane
+ 1-$l^{1}-oxidanyl-3-methylbutane
+ propan-2-yloxyphosphinous acid
+ 2-$l^{1}-oxidanyl-2-methylbutane
+ 2-$l^{1}-oxidanyl-3-methylbutane
+ 2,2,3-trifluorooxirane
+ 2- ( chloromethyl ) -3-methyloxirane
+ 1,2-dihydroperoxyethyne
+  ( Z ) -3-bromo-2-methylprop-2-en-1-ol
+  ( 2E ) -penta-2,4-dienal
+  ( Z ) -2-methylbut-2-enal
+  ( Z ) -2,3-dichloroprop-1-en-1-ol
+  ( E ) -but-2-enethioic S-acid
+  ( E ) -3-oxobut-1-en-1-olate
+  ( E ) -4-hydroxybut-3-en-2-one
+  ( E ) -but-1-ene-1,4-diol
+  ( E ) -2,3-dibromoprop-2-en-1-ol
+  ( E ) -1-bromo-2-ethoxyethene
+  ( E ) -but-2-ene-1,1-diol
+ dimethoxy ( oxo ) phosphanium
+ ethenoxy-hydroxy-oxophosphanium
+ ethoxy-hydroxy-oxophosphanium
+ ethoxy-methyl-oxophosphanium
+ chloromethyl-methoxy-oxophosphanium
+ dimethoxy ( sulfanylidene ) phosphanium
+ 1,3,2-dioxaphospholan-2-ium 2-oxide
+  ( Z ) -3-hydroxy-2-methylprop-2-enal
+ hydroxy- ( 1-hydroxyethyl ) -oxophosphanium
+  ( E ) -2-bromo-3-hydroxyprop-2-enal
+ methanesulfonoperoxoic acid
+ hydroxy-oxo-prop-2-enylphosphanium
+  ( E ) -3-chlorobut-2-enal
+  ( Z ) -2,3-dichloroprop-2-enal
+ acetyl-hydroxy-oxophosphanium
+  ( E ) -3-methylsulfanylprop-2-enal
+  ( E ) -3-bromo-2-methylprop-2-en-1-ol
+ hydroxy-oxo-propa-1,2-dienylphosphanium
+  ( Z ) -2,3-dibromoprop-2-en-1-ol
+ ethyl ( trihydroxy ) phosphanium

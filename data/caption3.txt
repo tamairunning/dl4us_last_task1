@@ -1,0 +1,1190 @@
+ 1 - amino propan - 2 - ol
+ 3 - amino propane nitrile 
+ 2 - amino guanidine
+ oxetan - 2 - one
+ 2 - iodo acet amide 
+ N - bromo acet amide 
+ 2 - amino propan - 1 - ol
+ methyl carbamimidothioate
+ amino urea
+ 2 - iodo acetic acid
+ 2 - bromo acetate
+ 2 - bromo acetic acid
+ 1 , 1 , 1 - tri chloro ethane 
+ di bromo ( di fluoro ) methane 
+ bromo ( tri chloro ) methane 
+ bromo ( tri fluoro ) methane 
+ 2 - methyl propan - 2 - ol
+ 2 - methyl propane - 2 - thiol
+ 1 - chloro - 1 , 1 - di fluoro ethane 
+ tri chloro ( fluoro ) methane 
+ tri chloro methane thiol
+ di chloro ( di fluoro ) methane 
+ chloro ( tri fluoro ) methane 
+ tetra fluoro methane 
+ 1 , 2 - di bromo propane 
+ 2 - bromo butane 
+ 1 - bromo - 2 - methyl propane 
+ 2 - methyl buta - 1 , 3 - diene
+ 2 - methyl propane nitrile 
+ 2 - methyl propan - 1 - ol
+ 2 - methyl propanal
+ 2 - methyl prop - 2 - enal
+ 2 - chloro butane 
+ 1 , 2 - di chloro propane 
+ 2 , 3 - di chloro prop - 1 - ene
+ 2 - chloro propan - 1 - ol
+ butan - 2 - ol
+ butan - 2 - one
+ but - 3 - en - 2 - one
+ 1 - chloro propan - 2 - one
+ 2 - hydro xy propane nitrile 
+ 1 , 1 - di chloro propane 
+ 1 , 1 , 2 - tri chloro ethane 
+ 2 , 2 - di chloro acet aldehyde 
+ 2 - chloro acetyl chloride 
+ propan amide 
+ 2 - chloro acet amide 
+ N - methyl acet amide 
+ methyl acetate
+ ethane per oxo ic acid
+ methyl carbonochloridate
+ 2 - ethyl oxirane
+ 1 , 3 - di bromo propane 
+ 1 - bromo butane 
+ pent - 1 - ene
+ 1 - chloro butane 
+ 1 - bromo - 3 - chloro propane 
+ butan - 1 - amine 
+ butane nitrile 
+ but - 3 - ene nitrile 
+ propane di nitrile 
+ 3 - hydro xy propane nitrile 
+ butane - 1 - thiol
+ propane - 1 , 3 - dithiol
+ N' - methyl ethane - 1 , 2 - di amine 
+ 2 - ( methyl idene amino ) aceto nitrile 
+ 2 - ( methyl amino ) ethanol
+ 2 - hydrazinylethanol
+ 2 - methoxy ethan amine 
+ 2 - methoxy ethanol
+ di methoxy methane 
+ N - ethyl ethan amine 
+ isocyanato ethane 
+ ethenoxy ethane 
+ ethenoxy ethene 
+ ethyl formate
+ ethyl nitrite
+ oxo lane
+ thiophene
+ 2 - methoxy prop - 1 - ene
+ 1 , 3 - di chloro propane 
+ cyclo pentene 
+ hydro xy methane sulfinic acid
+ 3 - amino propan - 1 - ol
+ spiro [ 2.2 ] pentane 
+ bi cyclo [ 2.1.0 ] pentane 
+ 1 , 2 - ox azo le
+ 1 , 3 - ox azo le
+ 1H - 1 , 2 , 4 - tri azo le
+ 1 , 2 , 4 - trithiolane
+ ethyl sulfanyl ethane 
+ bromo - di chloro - fluoro methane 
+ bromo - chloro - di fluoro methane 
+ 2 - fluoro - 2 - methyl propane 
+ 1 - chloro - 1 , 2 - di fluoro ethene 
+ 2 - fluoro acetyl chloride 
+ 2 - chloro - 1 , 1 - di fluoro ethene 
+ 1 , 1 , 2 - tri fluoro ethene 
+ 1 , 1 , 1 - tri fluoro ethane 
+ 1 - fluoro propan - 2 - one
+ 1 , 1 , 2 - tri fluoro ethane 
+ 3 - fluoro propan - 1 - amine 
+ 2 - ( fluoro methyl ) oxirane
+ cyanocyan amide 
+ 1 , 3 - thi azo lidine
+ 2 - bromo - 2 - methyl propane 
+ 2 - chloro - 2 - methyl propane 
+ 2 , 3 - di bromo prop - 1 - ene
+ 2 - methyl but - 2 - ene
+ 1 - chloro - 2 - methyl propane 
+ 1 - chloro - 2 - methyl prop - 1 - ene
+ 1 - iodo - 2 - methyl propane 
+ 2 - methyl prop - 2 - en - 1 - ol
+ 2 - methyl propane - 1 - thiol
+ 2 - iodo butane 
+ butane - 2 - thiol
+ 1 - iodo butane 
+ 3 - chloro propane nitrile 
+ propane dial
+ 1 - chloro - 2 - methyl sulfanyl ethane 
+ isothiocyanato ethane 
+ chloro ( chloro methoxy ) methane 
+ ethyl thiocyanate
+ 1 - methoxy propane 
+ tetra bromo methane 
+ 2 - iodo - 2 - methyl propane 
+ methane sulfo nyl fluoride
+ 2 , 2 - di methyl oxirane
+ 3 - methyl but - 1 - ene
+ 2 - methyl but - 1 - ene
+ 3 - chloro - 2 - methyl prop - 1 - ene
+ 3 - chloro but - 1 - ene
+ 1 , 2 - di chloro prop - 1 - ene
+ 3 , 3 - di chloro prop - 1 - ene
+ 1 , 1 - di chloro prop - 1 - ene
+ penta - 1 , 4 - diene
+ penta - 1 , 2 - diene
+ 1 - chloro but - 2 - ene
+ 2 , 2 - di bromo propane 
+ di bromo ( di chloro ) methane 
+ 2 , 2 - di chloro propane 
+ 1 , 1 , 2 - tri bromo ethene 
+ 2 - bromo propan - 1 - ol
+ 3 - methyl buta - 1 , 2 - diene
+ 1 - bromo propan - 2 - one
+ but - 3 - en - 2 - ol
+ 1 - amino propane - 2 - thiol
+ 2 , 2 - di chloro ethanol
+ methyl urea
+ 2 - methoxy propane 
+ methyl carbamate 
+ N , N - di methyl ethan amine 
+ methyl nitrate
+ methyl cyclo butane 
+ 3 - bromo propan - 1 - ol
+ pent - 1 - yne
+ pent - 2 - yne
+ 1 - chloro buta - 1 , 3 - diene
+ 1 - chloro buta - 1 , 2 - diene
+ 3 - chloro propan - 1 - ol
+ 1 , 3 - di iodo propane 
+ N - methyl propan - 1 - amine 
+ 1 - chloro - 2 - methoxy ethane 
+ 1 - fluoro - 2 - methoxy ethane 
+ N - ethyl formamide 
+ ethenyl sulfanyl ethane 
+ ethenyl sulfanyl ethene 
+ 2 - fluoro acet amide 
+ pent - 2 - ene
+ 1 , 3 - di oxo lane
+ di chloro phosphoryl methane 
+ 2 - chloro prop - 1 - en - 1 - one
+ 2 - bromo - 1 , 1 - di chloro ethane 
+ 2 - sulfanyl acet amide 
+ N - amino - N - methyl formamide 
+ but - 2 - yn - 1 - ol
+ oxirane - 2 - carb aldehyde 
+ prop - 2 - enoyl chloride 
+ 2 - chloro - 1 , 1 , 1 , 3 , 3 , 3 - hexadeuterio - 2 - ( trideuterio methyl ) propa...
+ 4 - chloro but - 1 - ene
+ but - 3 - yn - 1 - ol
+ 2 - ethenyl oxirane
+ methyl phosphonic acid
+ methyl idene cyclo butane 
+ cyclo butanone
+ but - 3 - yn - 2 - one
+ di methyl cyan amide 
+ di chloro ( ethyl ) phosphane
+ 2 - fluoro acetyl fluoride
+ 2 - methyl sulfanyl propane 
+ penta - 1 , 3 - diene
+ bis ( methyl sulfanyl ) methane 
+ 2 , 5 - di hydro furan
+ 1 , 1 - di chloro - 1 - fluoro ethane 
+ but - 3 - yn - 2 - ol
+ 2 - methyl oxetane
+ tri fluoro ( iodo ) methane 
+ 1 - fluoro butane 
+ 3 - bromo propane nitrile 
+ 2 - ethyl aziridine
+ 2 - methyl propan - 1 - imine
+ methoxy methane dithioic acid
+ S - methyl chloro methane thioate
+ 2 - bromo - 1 - chloro propane 
+ 1 - bromo - 2 - chloro propane 
+ 2 , 2 - di chloro aceto nitrile 
+ 2 - hydro peroxy propane 
+ 2 , 2 - di bromo acet aldehyde 
+ chloro methoxy ethane 
+ 2 - ( chloro methyl ) thiirane
+ 2 , 2 - di bromo aceto nitrile 
+ 2 , 3 - di methyl oxirane
+ amino ( tri methyl ) azanium
+ ( methyl tri sulfanyl ) methane 
+ 3 - bromo - 1 - chloro prop - 1 - ene
+ 1 - methyl sulfanyl propane 
+ but - 2 - en - 1 - ol
+ but - 2 - enal
+ 1 - chloro but - 1 - ene
+ 2 - chloro - N - methyl ethan amine 
+ oxirane - 2 - carbo nitrile 
+ 1 - deuteriooxy butane 
+ 2 - deuteriooxy butane 
+ 2 - bromo but - 2 - ene
+ but - 2 - ene nitrile 
+ 1 , 3 - dithiolane
+ di chloro ( methoxy ) methane 
+ 4 - bromo but - 1 - ene
+ 3 - hydro xyprop - 2 - enal
+ 1 - ethenyl aziridine
+ but - 2 - ene - 1 - thiol
+ 2 - bromo prop - 2 - en - 1 - amine 
+ ( E ) - 1 , 3 - di chloro prop - 1 - ene
+ butan - 2 - amine 
+ 1 , 3 - di chloro prop - 1 - ene
+ prop - 2 - enoate
+ thietane 1 - oxide
+ methyl ethanimidate
+ 2 - bromo prop - 2 - enal
+ amino methyl thiocyanate
+ N - formyl formamide 
+ 2 - sulfanyl ethanimid amide 
+ 3 - chloro propanal
+ 1 - bromo propan - 2 - ol
+ 3 - chloro prop - 2 - enal
+ 3 - chloro but - 1 - yne
+ but - 2 - en - 1 - amine 
+ methyl carbamic acid
+ tri fluoro methane thiol
+ ( 2S , 3S ) - 2 , 3 - di methyl oxirane
+ N' - hydro xyethanimid amide 
+ methane sulfo nyl chloride 
+ 2 - methyl prop - 2 - ene nitrile 
+ 2 - chloro buta - 1 , 3 - diene
+ 1 - chloro propan - 2 - ol
+ 3 , 3 - di chloro prop - 1 - yne
+ 4 - chloro buta - 1 , 2 - diene
+ methyl - methyl imino - oxidoazanium
+ N - chloro propan - 2 - amine 
+ 1 , 1 - di bromo - 2 - chloro ethane 
+ 2 - chloro ethanimid amide 
+ 1 - bromo but - 1 - ene
+ 2 - ( methyl amino ) aceto nitrile 
+ 3 - chloro buta - 1 , 2 - diene
+ 1 - bromo - 1 - chloro propane 
+ methoxy methyl idene ( methyl ) oxidanium
+ 4 - chloro but - 1 - yne
+ 2 - chloro but - 1 - ene
+ tri hydro xy ( methyl ) - $l^ { 4 } - sulfane
+ propylhydrazine
+ 1 , 1 , 2 - tri methyl hydrazine
+ 1 - chloro but - 1 - yne
+ ( E ) - 1 , 1 , 1 - trideuterio - 2 - methyl but - 2 - ene
+ cyclo pentapentaene
+ 2 , 3 - di methyl aziridine
+ propan - 2 - ylhydrazine
+ 2 - bromo - 2 - chloro aceto nitrile 
+ 1 , 3 - di chloro propa - 1 , 2 - diene
+ ( hydro xy methyl amino ) methanol
+ 2 - bromo acetyl bromide
+ nitro methan amine 
+ di chloro - methyl - sulfanyl idene - $l^ { 5 } - phosphane
+ propane - 1 , 2 - dithiol
+ ethynoxy ethane 
+ chloro - di methyl - sulfanyl idene - $l^ { 5 } - phosphane
+ ( 3E ) - penta - 1 , 3 - diene
+ 2 - methyl but - 1 - en - 3 - yne
+ propanoyl chloride 
+ 1 , 3 - oxathiolane
+ N - ( di chloro methyl idene ) hydro xyl amine 
+ 1 , 1 , 2 - tri bromo ethane 
+ 3 - methyl sulfanyl prop - 1 - ene
+ 3 - chloro - 1 - iodo prop - 1 - yne
+ 4 , 5 - di hydro - 1H - pyr azo le
+ N - propan - 2 - ylidene hydro xyl amine 
+ 1 , 2 - thi azo le
+ 2H - tri azo le
+ 1 , 2 , 5 - oxadi azo le
+ thiadi azo le
+ 2H - tetr azo le
+ 1 - bromo - 3 - fluoro propane 
+ tri bromo ( fluoro ) methane 
+ di bromo - chloro - fluoro methane 
+ 2 - bromo - 1 , 1 - di fluoro ethene 
+ 2 , 2 - di fluoro propane 
+ 1 , 1 - di chloro - 2 - fluoro ethane 
+ propanoyl fluoride
+ 1 , 3 - di fluoro propane 
+ 3 - fluoro propan - 1 - ol
+ 3 - fluoro propane nitrile 
+ 4 , 5 - di hydro - 1H - imid azo le
+ 4 , 5 - di hydro - 1 , 3 - ox azo le
+ methoxy cyclo propane 
+ bromo ( nitro ) methane 
+ tri bromo ( chloro ) methane 
+ propanoyl bromide
+ 3 - methyl but - 1 - yne
+ 2 - amino acet amide 
+ N - chloro acet amide 
+ but - 3 - en - 1 - ol
+ 3 - iodo propan - 1 - ol
+ N - methyl prop - 2 - en - 1 - amine 
+ 3 - methoxy prop - 1 - ene
+ 3 - methoxy prop - 1 - yne
+ acetyl cyanide
+ 2 , 2 - di hydro xyacet aldehyde 
+ di methyl phosphoryl methane 
+ di fluoro phosphoryl methane 
+ 2 - bromo acet amide 
+ N - hydro xyethanimidoyl chloride 
+ N , N - di methyl methane thio amide 
+ 2 - bromo prop - 2 - ene nitrile 
+ 2 - chloro prop - 2 - ene nitrile 
+ 3 - sulfanyl propane nitrile 
+ chloro cyclo butane 
+ ethyl cyclo propane 
+ 2 , 3 - di hydro furan
+ methane sulfo n amide 
+ S - methyl ethane thioate
+ tri fluoro methanol
+ 1 , 1 - di methyl cyclo propane 
+ 3 - iodo prop - 2 - yn - 1 - ol
+ 2 - methoxy aceto nitrile 
+ chloro ( nitro ) methane 
+ propane thioic S - acid
+ sulfanyl sulfo nyl methane 
+ N - methyl - N - ( methyl idene amino ) methan amine 
+ 1 , 1 - di chloro cyclo propane 
+ 2 - bromo - 2 - chloro propane 
+ methyl carbamimidate
+ cyclo propylmethanol
+ cyclo butan amine 
+ cyclo propylmethan amine 
+ S - chloro chloro methane thioate
+ 2 - methyl prop - 2 - en - 1 - amine 
+ cyclo butanol
+ 1 - iodo propan - 2 - one
+ chloro methyl thiocyanate
+ di chloro ( methoxy ) phosphane
+ di methyl phosphinic acid
+ phospholane
+ isocyanato ethene 
+ 1 - nitro ethene 
+ chloro methyl idene ( di methyl ) azanium
+ carbamoyl cyanide
+ bromo cyclo butane 
+ 1 - deuterio - N , N - bis ( trideuterio methyl ) formamide 
+ 2 , 2 - di chloro ethenone
+ N - methyl propan - 2 - amine 
+ methyl hydro gen carbonate
+ 3 - bromo propan - 1 - amine 
+ N - propan - 2 - yl hydro xyl amine 
+ 2 - methyl sulfanyl ethanol
+ propan - 2 - ylidenehydrazine
+ 1 , 2 , 4 - tri oxo lane
+ 1 , 2 - di bromo - 1 - fluoro ethane 
+ 1 , 2 - di chloro - 1 - fluoro ethane 
+ 1 , 2 - di chloro - 1 - fluoro ethene 
+ dithiolane
+ 1 - isocyano propane 
+ 2 - chloro ethane thioic S - acid
+ azido ethane 
+ 2 - nitro so propane 
+ 1 - iodo - 2 - methoxy ethane 
+ cyclo propane carbo nitrile 
+ 2 - fluoro prop - 2 - en - 1 - ol
+ 2 - bromo - 1 , 1 - di chloro ethene 
+ chloro methyl cyclo propane 
+ ( 2R , 3S ) - 2 , 3 - di methyl thiirane
+ ( 2S , 3S ) - 2 , 3 - di methyl thiirane
+ 2 - chloro prop - 2 - en - 1 - ol
+ ( 2S ) - 2 - chloro propane nitrile 
+ 2 , 2 , 3 , 3 , 4 , 4 , 5 , 5 - octadeuterio oxo lane
+ imino methyl idenecyan amide 
+ ( 2S ) - 2 - amino propan - 1 - ol
+ ( 2R ) - 2 - amino propan - 1 - ol
+ 3 - chloro - 2 - fluoro prop - 1 - ene
+ 2 - hydro xyguanidine
+ N - methyl carbamoyl chloride 
+ 1 - bromo - 2 - methoxy ethane 
+ 1 - chloro - 3 - iodo propane 
+ bromo methyl cyclo propane 
+ di sulfanyl methane dithioic acid
+ prop - 2 - enylhydrazine
+ sulf amide 
+ thietan - 3 - ol
+ di ethyl phosphane
+ N - ( hydro xy methyl ) formamide 
+ N - ethenyl formamide 
+ 1 , 1 - di bromo prop - 1 - ene
+ di methyl amino methanol
+ 3 - chloro propan - 1 - amine 
+ ( 2R ) - butan - 2 - ol
+ 2 - chloro ethane - 1 , 1 - diol
+ methane sulfo nate
+ 2 - bromo - 3 - chloro prop - 1 - ene
+ N - ( ethyl idene amino ) methan amine 
+ 3 - chloro propane - 1 - thiol
+ 2 - methyl sulfanyl ethan amine 
+ 3 - sulfanyl propan - 1 - ol
+ 2 - bromo acetyl chloride 
+ 2 - bromo but - 1 - ene
+ 2 - methoxy acet aldehyde 
+ 3 - chloro prop - 2 - en - 1 - ol
+ ( 2R , 3S ) - 2 , 3 - di methyl oxirane
+ propane - 2 , 2 - diol
+ 1 , 2 - di bromo - 1 - chloro ethane 
+ N - chloro propan - 2 - imine
+ methyl ideneurea
+ tri bromo methanol
+ methyl sulfinyl sulfanyl methane 
+ N - methyl prop - 2 - yn - 1 - amine 
+ 1 , 3 , 4 - oxadi azo le
+ 3 - amino propane - 1 - thiol
+ 1 - bromo - 2 - methyl prop - 1 - ene
+ 2 - methyl sulfanyl aceto nitrile 
+ 1 - sulfinylethan amine 
+ prop - 2 - yn amide 
+ 1 - fluoro propan - 2 - ol
+ 1 - sulfanyl propan - 2 - ol
+ 1 , 2 - di methyl cyclo propane 
+ 2 - sulfanyl propan - 1 - ol
+ 1 - bromo - 1 - chloro prop - 1 - ene
+ 1 - bromo - 2 - chloro prop - 1 - ene
+ O - ( 1 - amino ethenyl ) hydro xyl amine 
+ 1 - methoxy prop - 1 - ene
+ 3 , 3 - di methyl dioxirane
+ iodo ( nitro ) methane 
+ 1 , 2 - di bromo prop - 1 - ene
+ N - iodo acet amide 
+ aziridine - 2 - carbo nitrile 
+ 1 , 3 , 4 - thiadi azo le
+ 2 , 2 - di chloro oxirane
+ 2 , 2 - di fluoro aceto nitrile 
+ 4 , 5 - di hydro - 1 , 3 - thi azo le
+ tetra methyl phosphanium
+ 1 - methyl sulfinyl ethane 
+ 1 - bromo but - 2 - ene
+ cyclo propane carb aldehyde 
+ imino - di methyl - oxo - $l^ { 6 } - sulfane
+ methyl ethane dithioate
+ tri methyl ( sulfanyl idene ) - $l^ { 5 } - phosphane
+ tert - butyl phosphane
+ pentane 
+ 3 , 3 - di methyl diazirine
+ 1 - hydro peroxy propane 
+ 1 - chloro buta - 1 , 3 - diyne
+ but - 3 - enal
+ ( methyl di sulfanyl ) ethane 
+ tri fluoro ( $l^ { 1 } - oxidanyl ) methane 
+ $l^ { 1 } - oxidanyl acetate
+ 2 - methyl prop - 1 - en - 1 - ol
+ 2 , 2 - di bromo ethanol
+ 3 , 3 - di methyl diaziridine
+ fluoro acetate
+ 1 - fluoranyl - 3 - iodo propane 
+ 2 - azanylacetic acid
+ propane - 1 , 1 - diol
+ 2 - chloro propanal
+ bi cyclo [ 1.1.1 ] pentane 
+ 2 - bromo - 1 , 1 - di fluoro ethane 
+ 2 , 2 - di fluoro ethanol
+ 1 - bromo - 1 , 1 - di fluoro ethane 
+ tri fluoro methyl phosphane
+ 3 - fluoro prop - 2 - ene nitrile 
+ 1 , 1 - di fluoro propa - 1 , 2 - diene
+ 2 , 2 - di fluoro ethan amine 
+ 1 , 2 - ox azo lidine
+ penta - 2 , 3 - diene
+ 2 - methyl prop - 1 - en - 1 - one
+ 1 , 2 - di iodo propane 
+ 1 , 1 - di fluoro - 1 - iodo ethane 
+ cyano thiocyanate
+ pent - 1 - en - 3 - yne
+ 3 , 3 - di fluoro diazirine
+ ethenyl cyclo propane 
+ [ chloro ( fluoro ) phosphoryl ] methane 
+ carbononitridic azide
+ azetidin - 2 - one
+ N - deuterio - N - ethyl ethan amine 
+ buta - 2 , 3 - diene nitrile 
+ but - 2 - ynal
+ 2 , 3 - di hydro thiophene
+ N - ethyl ethanimine
+ 1 - methyl cyclo butene 
+ 1 - chloro - 1 - methoxy ethane 
+ pent - 3 - en - 1 - yne
+ 2 , 5 - di hydro thiophene
+ thiirane 1 , 1 - dioxide
+ 1 - bromo - 2 - fluoro propane 
+ 3 - chloro prop - 2 - yne nitrile 
+ 3 - iodo prop - 2 - yne nitrile 
+ 1 , 1 , 1 , 2 , 2 , 3 , 3 , 4 , 4 , 5 , 5 , 5 - dodecadeuterio pentane 
+ 2 , 3 , 4 , 5 - tetradeuteriothiophene
+ cyclo penta - 1 , 3 - diene
+ di chloro ( chloro methyl ) phosphane
+ 2 - chloro but - 2 - ene
+ 3 - sulfanyl idenepropa - 1 , 2 - dien - 1 - one
+ 1 , 1 , 1 - tri bromo ethane 
+ pentane 
+ 2 - di azo propane 
+ 3 - isocyanoprop - 1 - ene
+ 3 - bromo prop - 2 - yne nitrile 
+ 2 - methyl propane nitrile 
+ 1 , 1 , 1 - tri fluoro ethane 
+ 2 , 2 - di methyl propane 
+ 2 , 2 - di methyl thiirane
+ cyclo pentane 
+ 3 , 3 - di methyl cyclo propene 
+ 3 - chloro - 3 - methyl diazirine
+ 3 - bromo - 3 - methyl diazirine
+ 2 - methyl butane 
+ di oxo lane
+ 3 - oxo prop - 2 - ene nitrile 
+ 1 , 1 , 2 - tri fluoro ethene 
+ 2 - methyl cyclo prop - 2 - en - 1 - one
+ penta - 1 , 3 - diyne
+ 1 - methyl azetidine
+ bi cyclo [ 2.1.0 ] pent - 2 - ene
+ N - methoxy - N - methyl methan amine 
+ oxathiolane
+ di bromo - methyl - sulfanyl idene - $l^ { 5 } - phosphane
+ 2 - ethenyl thiirane
+ 1 - bromo buta - 1 , 3 - diyne
+ 1 - iodo buta - 1 , 3 - diyne
+ N - methyl propan - 2 - imine
+ ethynyl cyclo propane 
+ 1 , 2 - di methyl diaziridine
+ bromo - di methyl - sulfanyl idene - $l^ { 5 } - phosphane
+ di fluoro cyan amide 
+ 1 - methyl sulfinyl ethene 
+ penta - 1 , 2 , 4 - triene
+ cyclo pentene 
+ penta - 1 , 2 , 3 , 4 - tetraene
+ 1 - methoxy propa - 1 , 2 - diene
+ 1 - methoxy prop - 1 - yne
+ but - 2 - yne nitrile 
+ di imino ( di methyl ) - $l^ { 6 } - sulfane
+ di fluoro phosphanylformo nitrile 
+ 1 , 2 - di methyl cyclo propene 
+ penta - 1 , 4 - diene
+ tri methyl ( methyl idene ) - $l^ { 5 } - phosphane
+ 1 , 1 , 2 , 2 - tetradeuteriospiro [ 2.2 ] pentane 
+ imino ( tri methyl ) - $l^ { 5 } - phosphane
+ pent - 1 - ene
+ 3 , 3 - di fluoro prop - 1 - yne
+ 1 , 3 - dithietane - 2 - thione
+ ethyl idene cyclo propane 
+ 1 - methyl - 2 - methyl idene cyclo propane 
+ buta - 2 , 3 - dien - 1 - ol
+ 1 - $l^ { 1 } - oxidanyl butane 
+ 2 - bromo propane nitrile 
+ but - 1 - en - 1 - one
+ S - ethyl methane thioate
+ but - 2 - en - 2 - ol
+ 3 - bromo but - 1 - ene
+ carbononitridic isocyanate
+ pentane 
+ penta - 1 , 4 - diyne
+ 2 - ( trideuterio methoxy ) propane 
+ 3 - methyl but - 1 - ene
+ 2 - methyl buta - 1 , 3 - diene
+ 3 - fluoro prop - 2 - yne nitrile 
+ cyclo but - 2 - en - 1 - one
+ ethynoxy ethene 
+ di methyl ( methyl sulfanyl ) phosphane
+ ethyl protioformate
+ cyclo prop - 2 - ene - 1 - carb aldehyde 
+ 1 - protio cyclo pentene 
+ 4 - iodo but - 1 - en - 3 - yne
+ 1 - methyl sulfanyl prop - 1 - ene
+ thietan - 2 - ol
+ buta - 1 , 3 - dien - 1 - one
+ pent - 2 - ene
+ but - 3 - ynal
+ 3 - methyl but - 1 - ene
+ buta - 2 , 3 - dienal
+ azetidin - 1 - amine 
+ methoxy ( methyl ) diazene
+ carbononitridic isothiocyanate
+ but - 1 - en - 1 - ol
+ 3 - methyl but - 1 - yne
+ 1 , 2 - di fluoro cyclo propane 
+ 1 , 3 - dithietane 1 - oxide
+ cyclo propylidenemethanone
+ buta - 1 , 3 - dien - 2 - ol
+ 2 - methyl but - 1 - ene
+ 1 , 1 , 1 , 2 , 2 - pentadeuterio - 2 - ethyl sulfanyl ethane 
+ but - 1 - en - 2 - ol
+ buta - 1 , 3 - dien - 1 - ol
+ chloro chloro methane dithioate
+ 1 - fluoro buta - 1 , 3 - diyne
+ 3 - bromo propane - 1 - thiol
+ pent - 1 - en - 4 - yne
+ buta - 1 , 2 - dien - 1 - one
+ di methyl ( methyl phosphanyl ) phosphane
+ 4 , 4 , 4 - trideuteriobut - 2 - yne nitrile 
+ but - 1 - en - 3 - yn - 2 - ol
+ tri chloro methyl phosphane
+ buta - 2 , 3 - dien - 2 - ylphosphane
+ N - prop - 2 - enylidene hydro xyl amine 
+ 2 - chloro propan - 1 - amine 
+ N , N - bis ( trideuterio methyl ) nitro us amide 
+ aziridin - 1 - ylmethanol
+ di methyl phosphanylmethanol
+ 2 - ( chloro amino ) ethanol
+ 1 - amino cyclo propan - 1 - ol
+ N' - amino ethanimid amide 
+ N - ethyl nitro us amide 
+ ( 2S ) - 2 - ( chloro methyl ) oxirane
+ 1 - chloro - 1 - fluoro propane 
+ ethyl ( oxido ) diazene
+ 2 - iodo prop - 2 - enal
+ 2 - isocyano propane 
+ 1 - ethyl aziridine
+ 3 - oxo propane nitrile 
+ 2 , 3 - di hydro - 1 , 3 - thi azo le
+ 2 - fluoro prop - 2 - enal
+ chloro ( methyl sulfinyl ) methane 
+ N - ethenyl nitro us amide 
+ 1 , 1 - di bromo propane 
+ 1 - nitro ethane 
+ 2 - chloro - 3 - methyl oxirane
+ ( 2R , 3R ) - 2 - chloro - 3 - methyl oxirane
+ $l^ { 1 } - oxidanyloxy ( methoxy ) methane 
+ di chloro ( $l^ { 1 } - oxidanyloxy ) methane 
+ 1 , 2 - di chloro ethanol
+ N - ( hydro xy methyl ) nitro us amide 
+ 1 , 1 - di methyl aziridin - 1 - ium
+ hydrazine carboxyl ic acid
+ amino carbamate 
+ cyclo propane - 1 , 1 - diol
+ butan - 1 - ol
+ 1 - chloro - 1 , 2 - di fluoro ethane 
+ 2 - ( iodo methyl ) oxirane
+ chloro methyl sulfanyl ethane 
+ methyl N - methyl methanimidate
+ 2 - amino propane - 1 - thiol
+ hydro xy - methyl - methyl idene - oxo - $l^ { 6 } - sulfane
+ 4 , 5 - di hydro oxadi azo le
+ 2 - amino acetic acid
+ N - methyl - N - oxido methane thio amide 
+ 3 - amino prop - 2 - ene nitrile 
+ hydro xy methyl cyan amide 
+ 3 - methyl ideneoxiran - 2 - one
+ ethene - 1 , 1 , 2 - triol
+ ( 1E ) - buta - 1 , 3 - dien - 1 - ol
+ ethane per oxo ate
+ 1 - $l^ { 1 } - oxidanyloxyethanol
+ 1 - hydro peroxy ethanol
+ amino acetate
+ ( 2R , 3S ) - 2 , 3 - di chloro oxirane
+ ( 2R , 3R ) - 2 , 3 - di chloro oxirane
+ di fluoro ( $l^ { 1 } - oxidanyloxy ) methane 
+ S - methyl carbamothioate
+ nitro sulfanyl methane 
+ 2 - nitro soethanol
+ methyl carbamothioic S - acid
+ ( 2R ) - 2 - chloro propan - 1 - ol
+ 1 - $l^ { 1 } - oxidanyloxy propane 
+ carbonoper oxo ic acid
+ ( methyl diazenyl ) methanol
+ methyl - oxido - ( trideuterio methyl imino ) azanium
+ methyl imino - oxido - ( trideuterio methyl ) azanium
+ aziridin - 2 - ylmethan amine 
+ 2 - amino propanal
+ 1 - chloro - 2 - $l^ { 1 } - oxidanyloxy ethane 
+ methane sulfo nyl bromide
+ 2 - chloro - 2 - fluoro oxirane
+ propane - 1 - di azo nium
+ 2 , 3 - di hydro - 1H - 1 , 2 , 4 - tri azo le
+ butane - 1 - thiolate
+ fluoro ( methyl ) phosphinic acid
+ N - ( methyl diazenyl ) methan amine 
+ di hydro xy - methyl - sulfanyl idene - $l^ { 5 } - phosphane
+ thiiran - 2 - yl methane thiol
+ N - oxidopropan - 2 - imine
+ 2 - ( methyl amino ) ethane thiol
+ bromo ( bromo methyl sulfanyl ) methane 
+ N - ( 2 - amino ethyl ) hydro xyl amine 
+ ethyl ( di methyl ) sulfanium
+ ethenyl formate
+ 2 , 2 - di methyl aziridine
+ 3 - bromo - 2 - chloro prop - 1 - ene
+ di chloro methyl thiohypochlorite
+ ( 1S , 2R ) - 1 , 2 - di methyl cyclo propane 
+ 2 - hydrazinylethan amine 
+ 1 - chloro - N , N - di methyl methan amine 
+ 3 - chloro thietane
+ fluoro ( nitro ) methane 
+ ethane sulfinate
+ 2 - methyl aziridin - 1 - amine 
+ 1 - sulfo nyl ethene 
+ N - ethyl - N - methyl hydro xyl amine 
+ methoxy sulfanyl oxy methane 
+ methyl methane sulfinate
+ di methyl - sulfanyl - sulfanyl idene - $l^ { 5 } - phosphane
+ 1 - methyl - 2 - methyl ideneaziridine
+ 2 - bromo propanal
+ 3 - bromo - 2 - methyl prop - 1 - ene
+ methyl hydro gen sulfite
+ methyl di hydro gen phosphite
+ 2 - amino propane nitrile 
+ 2 - hydro xyethanimid amide 
+ 2 - oxo ethanimid amide 
+ propanimid amide 
+ O - ( 2 - chloro ethyl ) hydro xyl amine 
+ ethyl methanimidate
+ O - prop - 2 - enyl hydro xyl amine 
+ N - methyl nitr amide 
+ 1 - ethyl - 2 - methyl hydrazine
+ 2 - amino ethane - 1 , 1 - diol
+ cyclo propane - 1 , 2 - di amine 
+ 2 , 3 - di methyl - 2H - azirine
+ ethane sulfinic acid
+ 1 - sulfinyl propane 
+ but - 3 - en - 1 - amine 
+ ( 2R ) - butane - 2 - thiol
+ ( 2S ) - butan - 2 - ol
+ 1 - ( hydro xy amino ) ethanol
+ ( 2R ) - 1 , 2 - di chloro propane 
+ 1 , 2 - di amino ethane thiol
+ propane - 1 , 3 - dithiolate
+ [ ( 2R ) - 2 - hydro xypropyl ] azanium
+ ( 2R ) - 1 - bromo propan - 2 - ol
+ 2 - sulfanyl ethane thioic S - acid
+ ( E ) - but - 2 - enal
+ ( 2R ) - propane - 1 , 2 - di amine 
+ 2 , 2 - bis ( sulfanyl ) ethanol
+ ( 2S ) - 2 - amino propanal
+ but - 2 - ene - 2 - thiol
+ butan - 1 - ol
+ butan - 1 - ol
+ 2 - amino acetic acid
+ propanoic acid
+ 2 - fluoranylacetic acid
+ hydro xyurea
+ pentane 
+ 2 - hydro xy propane nitrile 
+ methyl carbamimidothioate
+ 1 - iodo butane 
+ 1 - iodo - 2 - methyl propane 
+ but - 1 - en - 1 - one
+ propanoyl chloride 
+ propanoyl chloride 
+ fluoranyl acetate
+ 1 - bromo - 3 - fluoranyl propane 
+ O - ( 2 - amino ethyl ) hydro xyl amine 
+ oxo urea
+ cyclo penta - 1 , 3 - diyne
+ amino methane sulfinic acid
+ N , N' - di methyl methane di amine 
+ 2 - deuteriooxy - 2 - methyl propane 
+ [ chloro ( methyl ) phosphoryl ] methane 
+ 2 - chloro acetate
+ isothiocyanato ethene 
+ 2 - iodo acetate
+ 2 - chloro propane nitrile 
+ O - methyl ethane thioate
+ 1 - sulfanyl propan - 2 - one
+ 1 - chloro but - 2 - yne
+ 1 - deuterio cyclo pentene 
+ 2 - $l^ { 1 } - oxidanyloxyethanol
+ 1 , 1 - di fluoro prop - 1 - ene
+ 2 - $l^ { 1 } - oxidanyloxy propane 
+ N , N - di methyl ethen amine 
+ 1 , 1 - di bromo - 1 - chloro ethane 
+ 2 , 3 - di methyl thiirane
+ 2 , 3 - di methyl thiirene
+ 1 - bromo - 1 , 1 - di chloro ethane 
+ but - 1 - en - 1 - olate
+ 2 - amino ethane thioic S - acid
+ pent - 1 - en - 4 - yne
+ 1 - fluoro - 2 - methyl idene cyclo propane 
+ 4 , 5 - di hydro - 3H - pyr azo le
+ 3 - methyl ideneoxetane
+ 3H - dithiole
+ 3 - methyl sulfanyl prop - 1 - yne
+ 2 - methyl sulfanyl ethane thiol
+ 1 - methyl sulfanyl ethane thiol
+ oxadithiole
+ ethyl ( methyl ) diazene
+ 3 - sulfanyl propanal
+ methyl sulfanyl methane dithiol
+ 3 - methyl oxetane
+ 2 - methyl azetidine
+ 1 - chloro azetidine
+ 1 - bromo azetidine
+ 1 - chloro - 2 - methyl aziridine
+ bis ( methyl imino ) - $l^ { 4 } - sulfane
+ methyl idene ( propan - 2 - yl ) phosphane
+ N , N - di fluoro ethan amine 
+ ethyl cyanate
+ ( methoxy amino ) oxy methane 
+ ethyl ( di methyl ) phosphane
+ N - methoxy ethanimine
+ 1 , 3 - di methyl diaziridine
+ 1 , 3 - ox azo lidine
+ di methyl phosphanylformo nitrile 
+ tri fluoro methan amine 
+ 3 - methyl thietane
+ N - methoxy formamide 
+ 2 - bromo - 2 - chloro acet aldehyde 
+ 1 - chloro buta - 1 , 2 , 3 - triene
+ 4 - chloro but - 1 - en - 3 - yne
+ 1 - chloro but - 1 - en - 3 - yne
+ 1 - bromo buta - 1 , 3 - diene
+ 1 - chloro - 2 - methyl idene cyclo propane 
+ 2 - amino prop - 2 - ene nitrile 
+ 4 - iodo but - 1 - ene
+ 1 - chloro - 1 - methyl cyclo propane 
+ cyclo butane thiol
+ 1 - bromo - 2 - methyl aziridine
+ 1 , 2 - di methyl aziridine
+ N - chloro - N - methoxy methan amine 
+ 2 - methyl imino aceto nitrile 
+ 2 - fluoro buta - 1 , 3 - diene
+ 2 - ( bromo methyl ) thiirane
+ 1 , 1 - di chloro propa - 1 , 2 - diene
+ 1 - bromo - 2 - methyl sulfanyl ethane 
+ O - methyl chloro methane thioate
+ methyl sulfanyl methane dithioic acid
+ methyl chloro methane dithioate
+ [ fluoro ( methyl ) phosphoryl ] methane 
+ 2 - chloro but - 1 - en - 3 - yne
+ 1 , 2 , 5 - thiadi azo le
+ 1 - methyl sulfanyl prop - 1 - yne
+ 2 - methyl thietane
+ 2 - chloro prop - 2 - enal
+ bis ( methyl sulfanyl ) phosphane
+ chloro ( chloro methyl sulfanyl ) methane 
+ di fluoro ( methyl imino ) - $l^ { 4 } - sulfane
+ 1 - chloro - 2 - methyl sulfanyl ethene 
+ fluoro - ( methyl di sulfanyl ) methane 
+ di fluoro - methyl - sulfanyl idene - $l^ { 5 } - phosphane
+ tri chloro ( iodo ) methane 
+ trithiolane
+ chloro - fluoro - methyl - sulfanyl idene - $l^ { 5 } - phosphane
+ 1 - bromo - 1 , 2 - di fluoro ethene 
+ iodo ( iodo methoxy ) methane 
+ 1 - iodo prop - 2 - yn - 1 - ol
+ N - methyl - N - methyl idenephosphanylmethan amine 
+ ( E ) - 1 - bromo but - 2 - ene
+ ( E ) - 1 - methoxy prop - 1 - ene
+ ( E ) - 1 - methyl sulfanyl prop - 1 - ene
+ ( E ) - but - 2 - ene nitrile 
+ ( E ) - but - 2 - en - 1 - ol
+ ( E ) - 1 - chloro but - 2 - ene
+ ( E ) - pent - 3 - en - 1 - yne
+ ( 2R ) - but - 3 - yn - 2 - ol
+ ( 2S ) - 2 - chloro propan - 1 - ol
+ ( E ) - 3 - bromo prop - 2 - en - 1 - ol
+ ( Z ) - 1 - methoxy prop - 1 - ene
+ ( Z ) - but - 2 - ene nitrile 
+ ( Z ) - 3 - chloro prop - 2 - en - 1 - ol
+ ( 3Z ) - penta - 1 , 3 - diene
+ ( Z ) - pent - 3 - en - 1 - yne
+ ( Z ) - but - 2 - en - 1 - ol
+ ( Z ) - 3 - bromo prop - 2 - en - 1 - ol
+ ( Z ) - but - 2 - enal
+ azetidin - 3 - ol
+ azetidin - 3 - one
+ azetidin - 3 - amine 
+ 3 - hydro xypropylazanium
+ ( 2R ) - 2 - chloro propane nitrile 
+ amino - imino - methoxy azanium
+ methyl thiourea
+ 1 , 1 , 1 , 2 , 2 - pentadeuterio - 2 - ( 1 , 1 , 2 , 2 , 2 - pentadeuterio ethoxy ) eth...
+ amino thiourea
+ iodo ( tri methyl ) - $l^ { 4 } - sulfane
+ chloro ( isothiocyanato ) methane 
+ deuterio 2 , 2 - dideuterio - 2 - ( dideuterio amino ) acetate
+ 1 , 1 , 1 , 3 , 3 , 3 - hexadeuterio - 2 - deuteriooxy - 2 - ( trideuterio methyl ) ...
+ deuterio 2 , 2 , 3 , 3 , 3 - pentadeuteriopropanoate
+ ( 2R ) - butan - 2 - amine 
+ hydro xy methyl idene ( di methyl ) azanium
+ 1 , 1 , 1 , 2 , 2 , 3 , 3 , 4 , 4 - nonadeuterio - 4 - deuteriooxy butane 
+ 2 , 3 , 4 , 5 - tetradeuteriofuran
+ fluoro ( fluoro methoxy ) methane 
+ 2 - chloro - 1 , 1 - di fluoro ethane 
+ di fluoro ( di iodo ) methane 
+ di methyl ( methyl sulfanyl ) sulfanium
+ 1 - bromo but - 2 - yne
+ isocyano cyclo propane 
+ propane thio amide 
+ 2 - ( iodo methyl ) aziridine
+ iodo methyl cyclo propane 
+ N - ( di bromo methyl idene ) hydro xyl amine 
+ O - propyl hydro xyl amine 
+ O - propan - 2 - yl hydro xyl amine 
+ amino carbamodithioic acid
+ butyl phosphane
+ di fluoro ( methoxy ) phosphane
+ di chloro ( ethenyl ) phosphane
+ di bromo ( ethyl ) phosphane
+ methoxy ( di methyl ) sulfanium
+ 3 - phosphanyl propane nitrile 
+ ethenyl phosphinic acid
+ di bromo ( ethenyl ) phosphane
+ methyl sulfite
+ methyl idenethiourea
+ methyl carbamodithioic acid
+ 2 - fluoro butane 
+ 2 - amino oxyethanol
+ ethoxy methanol
+ 2 - methoxy ethane thiol
+ 1 - methoxy ethanol
+ 1 - chloro - 2 - methoxy ethene 
+ 1 - bromo - 3 - chloro prop - 1 - ene
+ 2 - sulfanyl propanal
+ 1 - sulfanyl propan - 1 - ol
+ 3 - fluoro propane - 1 - thiol
+ iodo thiourea
+ N - methyl ethane thio amide 
+ hydro xythiourea
+ aziridine - 2 , 3 - dithione
+ ( 2R , 3S ) - 2 - chloro - 3 - methyl oxirane
+ ( Z ) - 2 - chloro prop - 1 - en - 1 - ol
+ 3 - hydro xyprop - 2 - ene nitrile 
+ iodo methyl thiocyanate
+ N - phosphinoylethan amine 
+ 2 - $l^ { 1 } - oxidanyl - 2 - methyl propane 
+ 2 - imino acetic acid
+ 1 , 3 - oxathiole
+ N - hydro xyethanimine oxide
+ N , N , 2 , 2 - tetradeuterio - 2 - ( dideuterio amino ) acet amide 
+ N - hydro xy - N - methyl methane thio amide 
+ 2 - iodo acetyl chloride 
+ propanoyloxidanium
+ amino methyl phosphinic acid
+ methyl phosphonamidic acid
+ propan - 2 - yloxyazanium
+ O - ( amino oxy methyl ) hydro xyl amine 
+ di fluoro methane diol
+ ( 2 - chloro acetyl ) oxidanium
+ prop - 2 - enimid amide 
+ cyclo penta - 1 , 3 - diene
+ 2 - fluoro ethanimid amide 
+ hydro xy methane sulfinate
+ methyl hydro gen phosphite
+ 2 - methyl propan - 1 - olate
+ 3 - fluoro azetidine
+ 3 - oxo prop - 1 - en - 1 - olate
+ bromo methyl idene ( di methyl ) azanium
+ pyrrolidin - 1 - ium
+ oxaldehydate
+ butyl azanium
+ butan - 2 - olate
+ 1 , 2 - diaza - 4 - azanida cyclo penta - 2 , 5 - diene
+ 2 - oxo propylazanium
+ 2 - oxo nioacetate
+ 2 , 2 - di chloro ethane thiol
+ methyl idene - oxido - di oxo - $l^ { 7 } - chlorane
+ hydro xy - methyl idene - di oxo - $l^ { 7 } - chlorane
+ 2 - azaniumyl ethoxy azanium
+ azetidin - 1 - ium - 3 - ol
+ di ethyl azanium
+ N - amino carbamodithioate
+ 1H - pyrrol - 1 - ium
+ N , N' - di methyl methanimid amide 
+ ( 2 - amino acetyl ) oxidanium
+ ( di amino methyl idene amino ) azanium
+ 1 , 1 - di fluoro - 2 - iodo ethane 
+ tert - butyl azanium
+ 1H - pyr azo l - 1 - ium
+ 2 - amino ethane thio amide 
+ 3 - azaniumylpropylazanium
+ 2 - amino ethanimid amide 
+ 2 , 3 - di hydro - 1H - pyr azo le
+ 3 - bromo prop - 2 - en - 1 - ol
+ 2 - iodo ethanimid amide 
+ di chloro ( methyl sulfanyl ) methane 
+ amino hydro gen carbonate
+ 2 - sulfanyl prop - 2 - ene nitrile 
+ ( 2 - hydro xy acetyl ) oxidanium
+ 3 - phosphanylpropylphosphane
+ N - formyl methanimidate
+ ( carbamoyl amino ) azanium
+ 1H - imid azo l - 1 - ium
+ ( 2 - amino - 2 - oxo ethyl ) azanium
+ azaniumyloxy methoxy azanium
+ N - methyl carbamodithioate
+ ( 2 - sulfaniumyl acetyl ) oxidanium
+ [ amino ( methyl sulfanyl ) methyl idene ] azanium
+ 2 - amino propan - 2 - ol
+ 2 - methyl propan - 2 - olate
+ methyl carbonate
+ cyano imino methyl ideneazanide
+ ( chloro methyl amino ) methanol
+ 2 - hydro xypropylazanium
+ 1H - 1 , 2 , 4 - tri azo l - 4 - ium
+ 2 - bromo ethanimid amide 
+ 2 , 3 - di fluoro oxirane
+ ( hydro xy - methyl - oxo - $l^ { 6 } - sulfanyl idene ) oxidanium
+ tri fluoro methanolate
+ 2 - bromo ethane thioic S - acid
+ 2 - iodo ethane thioic S - acid
+ cyclo propyl methane thiol
+ but - 3 - ene - 1 - thiol
+ 1 - methoxy ethane thiol
+ 3 - amino prop - 1 - yne - 1 - thiol
+ N' - cyanomethanimid amide 
+ 2 - ethyl thiirane
+ methyl carbamodithioate
+ 3 - amino propylazanium
+ butyl oxidanium
+ 1 , 1 - di hydro xy - 2 - methyl hydrazine
+ N - di fluoro phosphanylmethan amine 
+ 3 - chloro prop - 1 - en - 1 - ol
+ 2 - methoxy ethanolate
+ 1 , 3 - di bromo prop - 1 - ene
+ N - amino carbamate 
+ ethyl phosphinic acid
+ 2 - sulfanyl ethane - 1 , 1 - diol
+ 1 , 2 , 4 - tri azo lidine
+ methoxy methane diol
+ 2 - fluoro ethane - 1 , 1 - diol
+ 1 , 4 - dioxaspiro [ 2.2 ] pentane 
+ 2 , 3 - di hydro - 1H - imid azo le
+ 1 , 2 , 3 - triaza - 4 - azanida cyclo pentane 
+ tetr azo lidine
+ amino ( di amino methyl idene ) azanium
+ propoxy azanium
+ 1 - ( methyl amino ) ethanol
+ butan - 2 - ylazanium
+ ethane - 1 , 1 , 2 - triol
+ di methyl amino methane thiol
+ N' , N' - di methyl methane di amine 
+ di methyl ( sulfanyl methyl idene ) azanium
+ prop - 2 - yne - 1 , 1 - diol
+ prop - 2 - ene - 1 , 1 - diol
+ methoxy methane thioate
+ methoxy methane thioic S - acid
+ methyl - oxido - oxo - sulfanyl idene - $l^ { 6 } - sulfane
+ hydro xy - methyl - oxo - sulfanyl idene - $l^ { 6 } - sulfane
+ 1 , 2 , 4 , 5 - tetraoxaspiro [ 2.2 ] pentane 
+ 1 - azaniumylpropan - 2 - ylazanium
+ 1 - amino propan - 1 - ol
+ 2 - azaniumylacetate
+ cyanoiodanuidylformo nitrile 
+ amino methyl cyan amide 
+ oxo lan - 1 - ium
+ 3 - methyl bi cyclo [ 1.1.0 ] butane 
+ ethyl ( di methyl ) azanium
+ ( Z ) - 1 , 3 - di chloro prop - 1 - ene
+ ( E ) - 3 - chloro prop - 2 - enal
+ ( E ) - 3 - hydro xyprop - 2 - enal
+ 2H - imid azo le
+ amino methyl phosphonous acid
+ di chloro methane di amine 
+ ( Z ) - 2 - bromo but - 2 - ene
+ ( Z ) - pent - 2 - ene
+ ( E ) - pent - 2 - ene
+ dithiolan - 1 - ium
+ dithiiran - 3 - ylmethanol
+ ( Z ) - but - 2 - ene - 2 - thiol
+ 1 - ( hydro xy amino ) ethenol
+ 2 - fluoro - 1 - $l^ { 1 } - oxidanylethanone
+ ( Z ) - 1 - bromo but - 2 - ene
+ pyrrole
+ ( ethyl - $l^ { 2 } - azanyl ) ethane 
+ 1 - $l^ { 1 } - sulfanyl - N - methyl methane thio amide 
+ 3 - $l^ { 1 } - oxidanylprop - 2 - enal
+ 2 - amino - 1 - $l^ { 1 } - oxidanylethanone
+ 1 - $l^ { 1 } - oxidanylprop - 2 - en - 1 - one
+ tri fluoro ( $l^ { 1 } - sulfanyl ) methane 
+ N' - hydro xyethanimid amide 
+ 2 - $l^ { 1 } - oxidanyl butane 
+ ( E ) - 3 - amino prop - 2 - ene nitrile 
+ ( 1Z ) - buta - 1 , 3 - dien - 1 - ol
+ pent - 1 - ene
+ ( Z ) - N - methoxy ethanimine
+ ( Z ) - 1 - methyl sulfanyl prop - 1 - ene
+ ( Z ) - 1 - chloro but - 1 - en - 3 - yne
+ ( E ) - 1 - chloro but - 1 - en - 3 - yne
+ ( 1E ) - 1 - bromo buta - 1 , 3 - diene
+ ( E ) - 2 - bromo but - 2 - ene
+ ( E ) - 1 - bromo but - 1 - ene
+ ( Z ) - 1 - chloro but - 1 - ene
+ 1 , 2 , 4$l^ { 2 } - tri azo le
+ ( E ) - 2 - chloro but - 2 - ene
+ furan
+ N - [ ( Z ) - ethyl idene amino ] methan amine 
+ ( E ) - 1 , 2 - di chloro prop - 1 - ene
+ ( Z ) - 1 - chloro - 1 , 2 - di fluoro ethene 
+ ( E ) - 1 - chloro - 2 - methyl sulfanyl ethene 
+ ( Z ) - 1 , 2 - di chloro - 1 - fluoro ethene 
+ ( Z ) - 1 - bromo - 1 , 2 - di fluoro ethene 
+ 2 - $l^ { 2 } - azanyl - 2 - methyl propane 
+ methyl acetate
+ 2 - $l^ { 1 } - sulfanyl - 2 - methyl propane 
+ imid azo le
+ 1 , 3 - thi azo le
+ 1 , 2 - bis ( $l^ { 1 } - oxidanyl ) ethanone
+ cyclo penta - 1 , 2 , 4 - triene
+ ( 1Z ) - 1 - chloro buta - 1 , 3 - diene
+ ( 1E ) - 1 - chloro buta - 1 , 3 - diene
+ ( Z ) - but - 2 - en - 2 - ol
+ ( Z ) - 2 - chloro but - 2 - ene
+ ( E ) - but - 2 - en - 2 - ol
+ ( E ) - 1 - chloro - 1 , 2 - di fluoro ethene 
+ ( Z ) - 1 - bromo but - 1 - ene
+ ( Z ) - 1 - chloro but - 2 - ene
+ ( E ) - but - 1 - en - 1 - ol
+ ( Z ) - 1 , 2 - di chloro prop - 1 - ene
+ ( E ) - 1 - chloro but - 1 - ene
+ 1 - bromo - 1 , 2 - di fluoro ethane 
+ 1 - bromo - 1 - fluoro propane 
+ ( 1Z ) - N - hydro xyethanimidoyl chloride 
+ 2 , 3 - di hydro - 1H - phosphole
+ pentane 
+ thiophene
+ 1 , 3 - bis ( $l^ { 2 } - azanyl ) propane 
+ 2 - $l^ { 2 } - azanylacetic acid
+ 1 - $l^ { 2 } - azanyl butane 
+ but - 3 - en - 2 - one
+ 3 - $l^ { 2 } - azanylpropan - 1 - amine 
+ 2 - $l^ { 2 } - azanylacet amide 
+ butan - 2 - ol
+ 2 - $l^ { 2 } - azanylpropan - 1 - ol
+ $l^ { 2 } - azanyl cyclo butane 
+ 1 - $l^ { 2 } - azanylpropan - 1 - one
+ 1 - $l^ { 2 } - azanyl - 2 - methyl propane 
+ ( E ) - but - 2 - ene - 2 - thiol
+ methyl $l^ { 1 } - oxidanylformate
+ $l^ { 1 } - oxidanyl sulfo nyl methane 
+ 1 - $l^ { 1 } - oxidanyl - 2 - methoxy ethane 
+ 2 - methyl buta - 1 , 3 - diene
+ 1 - $l^ { 1 } - oxidanylpropan - 2 - ol
+ 3 - $l^ { 1 } - oxidanyl - 2 - methyl prop - 1 - ene
+ pent - 1 - ene
+ N' - hydro xyethanimid amide 
+ N' - amino ethanimid amide 
+ 1 - nitro ethane 
+ 1 - $l^ { 1 } - oxidanyl - 2 - methyl propane 
+ aziridine - 2 , 3 - dione 
+ ( E ) - 3 - hydro xyprop - 2 - ene nitrile 
+ 1 - nitro ethane 
+ ( E ) - 3 - oxo prop - 1 - en - 1 - olate
+ ( E ) - 3 - chloro prop - 1 - en - 1 - ol
+ ( NZ ) - N - prop - 2 - enylidene hydro xyl amine 
+ ( Z ) - 1 , 3 - di bromo prop - 1 - ene
+ carboxyoxyazanium
+ methyl idyne ( prop - 2 - enyl ) azanium
+ methyl idyne ( propyl ) azanium
+ acetyl oxyazanium
+ ( E ) - but - 1 - en - 1 - olate
+ hydro xy - methoxy - oxo phosphanium
+ hydro xy - ( methyl amino ) - oxo azanium
+ 1 - amino propylideneazanium
+ chloro methyl - hydro xy - oxo phosphanium
+ ethenyl - hydro xy - oxo phosphanium
+ ( E ) - 1 - chloro - 2 - methoxy ethene 
+ ( E ) - 1 - bromo - 3 - chloro prop - 1 - ene
+ ethyl ( hydro xyphosphanylidene ) azanium
+ N - phosphorosoethan amine 
+ amino methyl - hydro xy - oxo phosphanium
+ amino methyl - oxido - oxo phosphanium
+ chloro methyl ( di methyl ) sulfanium
+ ( E ) - 1 , 3 - di bromo prop - 1 - ene
+ ethyl - hydro xy - oxo phosphanium
+ hydro xy ( tri methyl ) phosphanium
+ tri hydro xy ( methyl ) phosphanium
+ cyclo pentene 
+ di methyl - methyl idene - oxo - $l^ { 6 } - sulfane
+ methanidyl - di methyl - methyl idene - $l^ { 5 } - phosphane
+ ( 1E ) - buta - 1 , 3 - diene - 1 - thiol
+ 1 , 1 - di methyl phosphiran - 1 - ium
+ di methyl - bis ( sulfanyl ) phosphanium
+ di hydro xy ( di methyl ) phosphanium
