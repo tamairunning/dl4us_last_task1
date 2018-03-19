@@ -14,6 +14,24 @@ IUPAC名は、母核部と各官能基を記述している要素に形態素分
 母核・官能基リストについて、前後にスペースを加えたものに置換し、最後に連続したスペースを１つのスペースに変換して行った。
 母核・官能基のリストは以下の通りである、。
 
+（メモ）
+PubChem
+2000年から2004年作成の、Cを含む重原子3個以上10個以下、リピンスキールールを満たすファイル
+2005年作成の、Cを含む重原子3個以上6個以下、リピンスキールールを満たすファイル、計5789原子データ
+
+PubChemからデータを取ってきて、画像とSummary情報を得て
+Summary情報からIUPAC名を抽出し、リスト化した。
+
+IUPAC名の形態素分解
+IUPAC名は（説明）
+主たる官能基のリストを作成し、それと一致するものの前後にスペースを挿入する形で形態素分解を行った。スペース挿入は文字列置換で行った。
+官能基リスト
+iupacs1 = "methane ethane propane butane pentane hexane heptane octane nonane decane methyl ethyl propil butyl pentyl hexyl heptyl".split( )
+iupacs2 = "ethene propene butene pentene hexene heptene octene nonene decene ethyne propyne butyne pentyne hexyne heptyne octyne nonyne decyne".split( )
+iupacs3 = "chloro fluoro bromo iodo oxo hydro amino imino hydroxy phenyl carboxyl aldehyde keto nitro sulfo benzyl formyl acetyl amide amine　sulfanyl chloride".split( )
+iupacs4 = "methoxy ethoxy propoxy butoxy benzoyl nitrile cyclo dione azo vinyl ethenyl allyl propenyl carbamate peroxy -  { }  ,".split( )
+
+
 〇モデルの作成
 
 
