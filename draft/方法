@@ -50,14 +50,15 @@ iupacs4 = "methoxy ethoxy propoxy butoxy benzoyl nitrile cyclo dione azo vinyl e
 
 メモ
 VGGarray
-(5769, 9, 9, 512)
+(5769, 9, 9, 512)41472
 Inception
-(5769, 8, 8, 2048)
+(5769, 8, 8, 2048)131072
 Xception
-
-
-
-
+(5769, 10, 10, 2048)204800
+ResNet
+(5769, 1, 1, 2048)2048
+InceptionResNet
+(5769, 8, 8, 1536)98304
 
 
 
