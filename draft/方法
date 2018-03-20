@@ -48,4 +48,16 @@ iupacs4 = "methoxy ethoxy propoxy butoxy benzoyl nitrile cyclo dione azo vinyl e
 
 〇モデルの作成
 
+メモ
+VGGarray
+(5769, 9, 9, 512)
+Inception
+(5769, 8, 8, 2048)
+Xception
+
+
+
+
+
+
 
