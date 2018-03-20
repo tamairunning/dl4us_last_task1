@@ -11,16 +11,16 @@
  2-bromoacetate
  2-bromoacetic acid
  1,1,1-trichloroethane
- dibromo ( difluoro ) methane
- bromo ( trichloro ) methane
- bromo ( trifluoro ) methane
+ dibromo(difluoro)methane
+ bromo(trichloro)methane
+ bromo(trifluoro)methane
  2-methylpropan-2-ol
  2-methylpropane-2-thiol
  1-chloro-1,1-difluoroethane
- trichloro ( fluoro ) methane
+ trichloro(fluoro)methane
  trichloromethanethiol
- dichloro ( difluoro ) methane
- chloro ( trifluoro ) methane
+ dichloro(difluoro)methane
+ chloro(trifluoro)methane
  tetrafluoromethane
  1,2-dibromopropane
  2-bromobutane
@@ -63,8 +63,8 @@
  butane-1-thiol
  propane-1,3-dithiol
  N'-methylethane-1,2-diamine
- 2- ( methylideneamino ) acetonitrile
- 2- ( methylamino ) ethanol
+ 2-(methylideneamino)acetonitrile
+ 2-(methylamino)ethanol
  2-hydrazinylethanol
  2-methoxyethanamine
  2-methoxyethanol
@@ -82,8 +82,8 @@
  cyclopentene
  hydroxymethanesulfinic acid
  3-aminopropan-1-ol
- spiro [ 2.2 ] pentane
- bicyclo [ 2.1.0 ] pentane
+ spiro[2.2]pentane
+ bicyclo[2.1.0]pentane
  1,2-oxazole
  1,3-oxazole
  1H-1,2,4-triazole
@@ -100,7 +100,7 @@
  1-fluoropropan-2-one
  1,1,2-trifluoroethane
  3-fluoropropan-1-amine
- 2- ( fluoromethyl ) oxirane
+ 2-(fluoromethyl)oxirane
  cyanocyanamide
  1,3-thiazolidine
  2-bromo-2-methylpropane
@@ -119,7 +119,7 @@
  propanedial
  1-chloro-2-methylsulfanylethane
  isothiocyanatoethane
- chloro ( chloromethoxy ) methane
+ chloro(chloromethoxy)methane
  ethyl thiocyanate
  1-methoxypropane
  tetrabromomethane
@@ -137,7 +137,7 @@
  penta-1,2-diene
  1-chlorobut-2-ene
  2,2-dibromopropane
- dibromo ( dichloro ) methane
+ dibromo(dichloro)methane
  2,2-dichloropropane
  1,1,2-tribromoethene
  2-bromopropan-1-ol
@@ -176,7 +176,7 @@
  but-2-yn-1-ol
  oxirane-2-carbaldehyde
  prop-2-enoyl chloride
- 2-chloro-1,1,1,3,3,3-hexadeuterio-2- ( trideuteriomethyl ) propa...
+ 2-chloro-1,1,1,3,3,3-hexadeuterio-2-(trideuteriomethyl)propa...
  4-chlorobut-1-ene
  but-3-yn-1-ol
  2-ethenyloxirane
@@ -185,16 +185,16 @@
  cyclobutanone
  but-3-yn-2-one
  dimethylcyanamide
- dichloro ( ethyl ) phosphane
+ dichloro(ethyl)phosphane
  2-fluoroacetyl fluoride
  2-methylsulfanylpropane
  penta-1,3-diene
- bis ( methylsulfanyl ) methane
+ bis(methylsulfanyl)methane
  2,5-dihydrofuran
  1,1-dichloro-1-fluoroethane
  but-3-yn-2-ol
  2-methyloxetane
- trifluoro ( iodo ) methane
+ trifluoro(iodo)methane
  1-fluorobutane
  3-bromopropanenitrile
  2-ethylaziridine
@@ -207,11 +207,11 @@
  2-hydroperoxypropane
  2,2-dibromoacetaldehyde
  chloromethoxyethane
- 2- ( chloromethyl ) thiirane
+ 2-(chloromethyl)thiirane
  2,2-dibromoacetonitrile
  2,3-dimethyloxirane
- amino ( trimethyl ) azanium
-  ( methyltrisulfanyl ) methane
+ amino(trimethyl)azanium
+ (methyltrisulfanyl)methane
  3-bromo-1-chloroprop-1-ene
  1-methylsulfanylpropane
  but-2-en-1-ol
@@ -224,13 +224,13 @@
  2-bromobut-2-ene
  but-2-enenitrile
  1,3-dithiolane
- dichloro ( methoxy ) methane
+ dichloro(methoxy)methane
  4-bromobut-1-ene
  3-hydroxyprop-2-enal
  1-ethenylaziridine
  but-2-ene-1-thiol
  2-bromoprop-2-en-1-amine
-  ( E ) -1,3-dichloroprop-1-ene
+ (E)-1,3-dichloroprop-1-ene
  butan-2-amine
  1,3-dichloroprop-1-ene
  prop-2-enoate
@@ -247,7 +247,7 @@
  but-2-en-1-amine
  methylcarbamic acid
  trifluoromethanethiol
-  ( 2S,3S ) -2,3-dimethyloxirane
+ (2S,3S)-2,3-dimethyloxirane
  N'-hydroxyethanimidamide
  methanesulfonyl chloride
  2-methylprop-2-enenitrile
@@ -260,34 +260,34 @@
  1,1-dibromo-2-chloroethane
  2-chloroethanimidamide
  1-bromobut-1-ene
- 2- ( methylamino ) acetonitrile
+ 2-(methylamino)acetonitrile
  3-chlorobuta-1,2-diene
  1-bromo-1-chloropropane
- methoxymethylidene ( methyl ) oxidanium
+ methoxymethylidene(methyl)oxidanium
  4-chlorobut-1-yne
  2-chlorobut-1-ene
- trihydroxy ( methyl ) -$l^{4}-sulfane
+ trihydroxy(methyl)-$l^{4}-sulfane
  propylhydrazine
  1,1,2-trimethylhydrazine
  1-chlorobut-1-yne
-  ( E ) -1,1,1-trideuterio-2-methylbut-2-ene
+ (E)-1,1,1-trideuterio-2-methylbut-2-ene
  cyclopentapentaene
  2,3-dimethylaziridine
  propan-2-ylhydrazine
  2-bromo-2-chloroacetonitrile
  1,3-dichloropropa-1,2-diene
-  ( hydroxymethylamino ) methanol
+ (hydroxymethylamino)methanol
  2-bromoacetyl bromide
  nitromethanamine
  dichloro-methyl-sulfanylidene-$l^{5}-phosphane
  propane-1,2-dithiol
  ethynoxyethane
  chloro-dimethyl-sulfanylidene-$l^{5}-phosphane
-  ( 3E ) -penta-1,3-diene
+ (3E)-penta-1,3-diene
  2-methylbut-1-en-3-yne
  propanoyl chloride
  1,3-oxathiolane
- N- ( dichloromethylidene ) hydroxylamine
+ N-(dichloromethylidene)hydroxylamine
  1,1,2-tribromoethane
  3-methylsulfanylprop-1-ene
  3-chloro-1-iodoprop-1-yne
@@ -299,7 +299,7 @@
  thiadiazole
  2H-tetrazole
  1-bromo-3-fluoropropane
- tribromo ( fluoro ) methane
+ tribromo(fluoro)methane
  dibromo-chloro-fluoromethane
  2-bromo-1,1-difluoroethene
  2,2-difluoropropane
@@ -311,8 +311,8 @@
  4,5-dihydro-1H-imidazole
  4,5-dihydro-1,3-oxazole
  methoxycyclopropane
- bromo ( nitro ) methane
- tribromo ( chloro ) methane
+ bromo(nitro)methane
+ tribromo(chloro)methane
  propanoyl bromide
  3-methylbut-1-yne
  2-aminoacetamide
@@ -341,10 +341,10 @@
  1,1-dimethylcyclopropane
  3-iodoprop-2-yn-1-ol
  2-methoxyacetonitrile
- chloro ( nitro ) methane
+ chloro(nitro)methane
  propanethioic S-acid
  sulfanylsulfonylmethane
- N-methyl-N- ( methylideneamino ) methanamine
+ N-methyl-N-(methylideneamino)methanamine
  1,1-dichlorocyclopropane
  2-bromo-2-chloropropane
  methyl carbamimidate
@@ -356,15 +356,15 @@
  cyclobutanol
  1-iodopropan-2-one
  chloromethyl thiocyanate
- dichloro ( methoxy ) phosphane
+ dichloro(methoxy)phosphane
  dimethylphosphinic acid
  phospholane
  isocyanatoethene
  1-nitroethene
- chloromethylidene ( dimethyl ) azanium
+ chloromethylidene(dimethyl)azanium
  carbamoyl cyanide
  bromocyclobutane
- 1-deuterio-N,N-bis ( trideuteriomethyl ) formamide
+ 1-deuterio-N,N-bis(trideuteriomethyl)formamide
  2,2-dichloroethenone
  N-methylpropan-2-amine
  methyl hydrogen carbonate
@@ -386,14 +386,14 @@
  2-fluoroprop-2-en-1-ol
  2-bromo-1,1-dichloroethene
  chloromethylcyclopropane
-  ( 2R,3S ) -2,3-dimethylthiirane
-  ( 2S,3S ) -2,3-dimethylthiirane
+ (2R,3S)-2,3-dimethylthiirane
+ (2S,3S)-2,3-dimethylthiirane
  2-chloroprop-2-en-1-ol
-  ( 2S ) -2-chloropropanenitrile
+ (2S)-2-chloropropanenitrile
  2,2,3,3,4,4,5,5-octadeuteriooxolane
  iminomethylidenecyanamide
-  ( 2S ) -2-aminopropan-1-ol
-  ( 2R ) -2-aminopropan-1-ol
+ (2S)-2-aminopropan-1-ol
+ (2R)-2-aminopropan-1-ol
  3-chloro-2-fluoroprop-1-ene
  2-hydroxyguanidine
  N-methylcarbamoyl chloride
@@ -402,19 +402,18 @@
  bromomethylcyclopropane
  disulfanylmethanedithioic acid
  prop-2-enylhydrazine
- sulfamide
  thietan-3-ol
  diethylphosphane
- N- ( hydroxymethyl ) formamide
+ N-(hydroxymethyl)formamide
  N-ethenylformamide
  1,1-dibromoprop-1-ene
  dimethylaminomethanol
  3-chloropropan-1-amine
-  ( 2R ) -butan-2-ol
+ (2R)-butan-2-ol
  2-chloroethane-1,1-diol
  methanesulfonate
  2-bromo-3-chloroprop-1-ene
- N- ( ethylideneamino ) methanamine
+ N-(ethylideneamino)methanamine
  3-chloropropane-1-thiol
  2-methylsulfanylethanamine
  3-sulfanylpropan-1-ol
@@ -422,7 +421,7 @@
  2-bromobut-1-ene
  2-methoxyacetaldehyde
  3-chloroprop-2-en-1-ol
-  ( 2R,3S ) -2,3-dimethyloxirane
+ (2R,3S)-2,3-dimethyloxirane
  propane-2,2-diol
  1,2-dibromo-1-chloroethane
  N-chloropropan-2-imine
@@ -442,10 +441,10 @@
  2-sulfanylpropan-1-ol
  1-bromo-1-chloroprop-1-ene
  1-bromo-2-chloroprop-1-ene
- O- ( 1-aminoethenyl ) hydroxylamine
+ O-(1-aminoethenyl)hydroxylamine
  1-methoxyprop-1-ene
  3,3-dimethyldioxirane
- iodo ( nitro ) methane
+ iodo(nitro)methane
  1,2-dibromoprop-1-ene
  N-iodoacetamide
  aziridine-2-carbonitrile
@@ -459,15 +458,15 @@
  cyclopropanecarbaldehyde
  imino-dimethyl-oxo-$l^{6}-sulfane
  methyl ethanedithioate
- trimethyl ( sulfanylidene ) -$l^{5}-phosphane
+ trimethyl(sulfanylidene)-$l^{5}-phosphane
  tert-butylphosphane
  pentane
  3,3-dimethyldiazirine
  1-hydroperoxypropane
  1-chlorobuta-1,3-diyne
  but-3-enal
-  ( methyldisulfanyl ) ethane
- trifluoro ( $l^{1}-oxidanyl ) methane
+ (methyldisulfanyl)ethane
+ trifluoro($l^{1}-oxidanyl)methane
  $l^{1}-oxidanyl acetate
  2-methylprop-1-en-1-ol
  2,2-dibromoethanol
@@ -477,7 +476,7 @@
  2-azanylacetic acid
  propane-1,1-diol
  2-chloropropanal
- bicyclo [ 1.1.1 ] pentane
+ bicyclo[1.1.1]pentane
  2-bromo-1,1-difluoroethane
  2,2-difluoroethanol
  1-bromo-1,1-difluoroethane
@@ -494,7 +493,7 @@
  pent-1-en-3-yne
  3,3-difluorodiazirine
  ethenylcyclopropane
-  [ chloro ( fluoro ) phosphoryl ] methane
+ [chloro(fluoro)phosphoryl]methane
  carbononitridic azide
  azetidin-2-one
  N-deuterio-N-ethylethanamine
@@ -513,7 +512,7 @@
  1,1,1,2,2,3,3,4,4,5,5,5-dodecadeuteriopentane
  2,3,4,5-tetradeuteriothiophene
  cyclopenta-1,3-diene
- dichloro ( chloromethyl ) phosphane
+ dichloro(chloromethyl)phosphane
  2-chlorobut-2-ene
  3-sulfanylidenepropa-1,2-dien-1-one
  1,1,1-tribromoethane
@@ -536,7 +535,7 @@
  2-methylcycloprop-2-en-1-one
  penta-1,3-diyne
  1-methylazetidine
- bicyclo [ 2.1.0 ] pent-2-ene
+ bicyclo[2.1.0]pent-2-ene
  N-methoxy-N-methylmethanamine
  oxathiolane
  dibromo-methyl-sulfanylidene-$l^{5}-phosphane
@@ -555,13 +554,13 @@
  1-methoxypropa-1,2-diene
  1-methoxyprop-1-yne
  but-2-ynenitrile
- diimino ( dimethyl ) -$l^{6}-sulfane
+ diimino(dimethyl)-$l^{6}-sulfane
  difluorophosphanylformonitrile
  1,2-dimethylcyclopropene
  penta-1,4-diene
- trimethyl ( methylidene ) -$l^{5}-phosphane
- 1,1,2,2-tetradeuteriospiro [ 2.2 ] pentane
- imino ( trimethyl ) -$l^{5}-phosphane
+ trimethyl(methylidene)-$l^{5}-phosphane
+ 1,1,2,2-tetradeuteriospiro[2.2]pentane
+ imino(trimethyl)-$l^{5}-phosphane
  pent-1-ene
  3,3-difluoroprop-1-yne
  1,3-dithietane-2-thione
@@ -577,13 +576,13 @@
  carbononitridic isocyanate
  pentane
  penta-1,4-diyne
- 2- ( trideuteriomethoxy ) propane
+ 2-(trideuteriomethoxy)propane
  3-methylbut-1-ene
  2-methylbuta-1,3-diene
  3-fluoroprop-2-ynenitrile
  cyclobut-2-en-1-one
  ethynoxyethene
- dimethyl ( methylsulfanyl ) phosphane
+ dimethyl(methylsulfanyl)phosphane
  ethyl protioformate
  cycloprop-2-ene-1-carbaldehyde
  1-protiocyclopentene
@@ -596,7 +595,7 @@
  3-methylbut-1-ene
  buta-2,3-dienal
  azetidin-1-amine
- methoxy ( methyl ) diazene
+ methoxy(methyl)diazene
  carbononitridic isothiocyanate
  but-1-en-1-ol
  3-methylbut-1-yne
@@ -613,46 +612,46 @@
  3-bromopropane-1-thiol
  pent-1-en-4-yne
  buta-1,2-dien-1-one
- dimethyl ( methylphosphanyl ) phosphane
+ dimethyl(methylphosphanyl)phosphane
  4,4,4-trideuteriobut-2-ynenitrile
  but-1-en-3-yn-2-ol
  trichloromethylphosphane
  buta-2,3-dien-2-ylphosphane
  N-prop-2-enylidenehydroxylamine
  2-chloropropan-1-amine
- N,N-bis ( trideuteriomethyl ) nitrous amide
+ N,N-bis(trideuteriomethyl)nitrous amide
  aziridin-1-ylmethanol
  dimethylphosphanylmethanol
- 2- ( chloroamino ) ethanol
+ 2-(chloroamino)ethanol
  1-aminocyclopropan-1-ol
  N'-aminoethanimidamide
  N-ethylnitrous amide
-  ( 2S ) -2- ( chloromethyl ) oxirane
+ (2S)-2-(chloromethyl)oxirane
  1-chloro-1-fluoropropane
- ethyl ( oxido ) diazene
+ ethyl(oxido)diazene
  2-iodoprop-2-enal
  2-isocyanopropane
  1-ethylaziridine
  3-oxopropanenitrile
  2,3-dihydro-1,3-thiazole
  2-fluoroprop-2-enal
- chloro ( methylsulfinyl ) methane
+ chloro(methylsulfinyl)methane
  N-ethenylnitrous amide
  1,1-dibromopropane
  1-nitroethane
  2-chloro-3-methyloxirane
-  ( 2R,3R ) -2-chloro-3-methyloxirane
- $l^{1}-oxidanyloxy ( methoxy ) methane
- dichloro ( $l^{1}-oxidanyloxy ) methane
+ (2R,3R)-2-chloro-3-methyloxirane
+ $l^{1}-oxidanyloxy(methoxy)methane
+ dichloro($l^{1}-oxidanyloxy)methane
  1,2-dichloroethanol
- N- ( hydroxymethyl ) nitrous amide
+ N-(hydroxymethyl)nitrous amide
  1,1-dimethylaziridin-1-ium
  hydrazinecarboxylic acid
  amino carbamate
  cyclopropane-1,1-diol
  butan-1-ol
  1-chloro-1,2-difluoroethane
- 2- ( iodomethyl ) oxirane
+ 2-(iodomethyl)oxirane
  chloromethylsulfanylethane
  methyl N-methylmethanimidate
  2-aminopropane-1-thiol
@@ -664,24 +663,24 @@
  hydroxymethylcyanamide
  3-methylideneoxiran-2-one
  ethene-1,1,2-triol
-  ( 1E ) -buta-1,3-dien-1-ol
+ (1E)-buta-1,3-dien-1-ol
  ethaneperoxoate
  1-$l^{1}-oxidanyloxyethanol
  1-hydroperoxyethanol
  amino acetate
-  ( 2R,3S ) -2,3-dichlorooxirane
-  ( 2R,3R ) -2,3-dichlorooxirane
- difluoro ( $l^{1}-oxidanyloxy ) methane
+ (2R,3S)-2,3-dichlorooxirane
+ (2R,3R)-2,3-dichlorooxirane
+ difluoro($l^{1}-oxidanyloxy)methane
  S-methyl carbamothioate
  nitrosulfanylmethane
  2-nitrosoethanol
  methylcarbamothioic S-acid
-  ( 2R ) -2-chloropropan-1-ol
+ (2R)-2-chloropropan-1-ol
  1-$l^{1}-oxidanyloxypropane
  carbonoperoxoic acid
-  ( methyldiazenyl ) methanol
- methyl-oxido- ( trideuteriomethylimino ) azanium
- methylimino-oxido- ( trideuteriomethyl ) azanium
+ (methyldiazenyl)methanol
+ methyl-oxido-(trideuteriomethylimino)azanium
+ methylimino-oxido-(trideuteriomethyl)azanium
  aziridin-2-ylmethanamine
  2-aminopropanal
  1-chloro-2-$l^{1}-oxidanyloxyethane
@@ -690,24 +689,24 @@
  propane-1-diazonium
  2,3-dihydro-1H-1,2,4-triazole
  butane-1-thiolate
- fluoro ( methyl ) phosphinic acid
- N- ( methyldiazenyl ) methanamine
+ fluoro(methyl)phosphinic acid
+ N-(methyldiazenyl)methanamine
  dihydroxy-methyl-sulfanylidene-$l^{5}-phosphane
  thiiran-2-ylmethanethiol
  N-oxidopropan-2-imine
- 2- ( methylamino ) ethanethiol
- bromo ( bromomethylsulfanyl ) methane
- N- ( 2-aminoethyl ) hydroxylamine
- ethyl ( dimethyl ) sulfanium
+ 2-(methylamino)ethanethiol
+ bromo(bromomethylsulfanyl)methane
+ N-(2-aminoethyl)hydroxylamine
+ ethyl(dimethyl)sulfanium
  ethenyl formate
  2,2-dimethylaziridine
  3-bromo-2-chloroprop-1-ene
  dichloromethyl thiohypochlorite
-  ( 1S,2R ) -1,2-dimethylcyclopropane
+ (1S,2R)-1,2-dimethylcyclopropane
  2-hydrazinylethanamine
  1-chloro-N,N-dimethylmethanamine
  3-chlorothietane
- fluoro ( nitro ) methane
+ fluoro(nitro)methane
  ethanesulfinate
  2-methylaziridin-1-amine
  1-sulfonylethene
@@ -724,7 +723,7 @@
  2-hydroxyethanimidamide
  2-oxoethanimidamide
  propanimidamide
- O- ( 2-chloroethyl ) hydroxylamine
+ O-(2-chloroethyl)hydroxylamine
  ethyl methanimidate
  O-prop-2-enylhydroxylamine
  N-methylnitramide
@@ -735,19 +734,19 @@
  ethanesulfinic acid
  1-sulfinylpropane
  but-3-en-1-amine
-  ( 2R ) -butane-2-thiol
-  ( 2S ) -butan-2-ol
- 1- ( hydroxyamino ) ethanol
-  ( 2R ) -1,2-dichloropropane
+ (2R)-butane-2-thiol
+ (2S)-butan-2-ol
+ 1-(hydroxyamino)ethanol
+ (2R)-1,2-dichloropropane
  1,2-diaminoethanethiol
  propane-1,3-dithiolate
-  [  ( 2R ) -2-hydroxypropyl ] azanium
-  ( 2R ) -1-bromopropan-2-ol
+ [(2R)-2-hydroxypropyl]azanium
+ (2R)-1-bromopropan-2-ol
  2-sulfanylethanethioic S-acid
-  ( E ) -but-2-enal
-  ( 2R ) -propane-1,2-diamine
- 2,2-bis ( sulfanyl ) ethanol
-  ( 2S ) -2-aminopropanal
+ (E)-but-2-enal
+ (2R)-propane-1,2-diamine
+ 2,2-bis(sulfanyl)ethanol
+ (2S)-2-aminopropanal
  but-2-ene-2-thiol
  butan-1-ol
  butan-1-ol
@@ -765,13 +764,13 @@
  propanoyl chloride
  fluoranyl acetate
  1-bromo-3-fluoranylpropane
- O- ( 2-aminoethyl ) hydroxylamine
+ O-(2-aminoethyl)hydroxylamine
  oxourea
  cyclopenta-1,3-diyne
  aminomethanesulfinic acid
  N,N'-dimethylmethanediamine
  2-deuteriooxy-2-methylpropane
-  [ chloro ( methyl ) phosphoryl ] methane
+ [chloro(methyl)phosphoryl]methane
  2-chloroacetate
  isothiocyanatoethene
  2-iodoacetate
@@ -799,7 +798,7 @@
  2-methylsulfanylethanethiol
  1-methylsulfanylethanethiol
  oxadithiole
- ethyl ( methyl ) diazene
+ ethyl(methyl)diazene
  3-sulfanylpropanal
  methylsulfanylmethanedithiol
  3-methyloxetane
@@ -807,12 +806,12 @@
  1-chloroazetidine
  1-bromoazetidine
  1-chloro-2-methylaziridine
- bis ( methylimino ) -$l^{4}-sulfane
- methylidene ( propan-2-yl ) phosphane
+ bis(methylimino)-$l^{4}-sulfane
+ methylidene(propan-2-yl)phosphane
  N,N-difluoroethanamine
  ethyl cyanate
-  ( methoxyamino ) oxymethane
- ethyl ( dimethyl ) phosphane
+ (methoxyamino)oxymethane
+ ethyl(dimethyl)phosphane
  N-methoxyethanimine
  1,3-dimethyldiaziridine
  1,3-oxazolidine
@@ -835,88 +834,88 @@
  N-chloro-N-methoxymethanamine
  2-methyliminoacetonitrile
  2-fluorobuta-1,3-diene
- 2- ( bromomethyl ) thiirane
+ 2-(bromomethyl)thiirane
  1,1-dichloropropa-1,2-diene
  1-bromo-2-methylsulfanylethane
  O-methyl chloromethanethioate
  methylsulfanylmethanedithioic acid
  methyl chloromethanedithioate
-  [ fluoro ( methyl ) phosphoryl ] methane
+ [fluoro(methyl)phosphoryl]methane
  2-chlorobut-1-en-3-yne
  1,2,5-thiadiazole
  1-methylsulfanylprop-1-yne
  2-methylthietane
  2-chloroprop-2-enal
- bis ( methylsulfanyl ) phosphane
- chloro ( chloromethylsulfanyl ) methane
- difluoro ( methylimino ) -$l^{4}-sulfane
+ bis(methylsulfanyl)phosphane
+ chloro(chloromethylsulfanyl)methane
+ difluoro(methylimino)-$l^{4}-sulfane
  1-chloro-2-methylsulfanylethene
- fluoro- ( methyldisulfanyl ) methane
+ fluoro-(methyldisulfanyl)methane
  difluoro-methyl-sulfanylidene-$l^{5}-phosphane
- trichloro ( iodo ) methane
+ trichloro(iodo)methane
  trithiolane
  chloro-fluoro-methyl-sulfanylidene-$l^{5}-phosphane
  1-bromo-1,2-difluoroethene
- iodo ( iodomethoxy ) methane
+ iodo(iodomethoxy)methane
  1-iodoprop-2-yn-1-ol
  N-methyl-N-methylidenephosphanylmethanamine
-  ( E ) -1-bromobut-2-ene
-  ( E ) -1-methoxyprop-1-ene
-  ( E ) -1-methylsulfanylprop-1-ene
-  ( E ) -but-2-enenitrile
-  ( E ) -but-2-en-1-ol
-  ( E ) -1-chlorobut-2-ene
-  ( E ) -pent-3-en-1-yne
-  ( 2R ) -but-3-yn-2-ol
-  ( 2S ) -2-chloropropan-1-ol
-  ( E ) -3-bromoprop-2-en-1-ol
-  ( Z ) -1-methoxyprop-1-ene
-  ( Z ) -but-2-enenitrile
-  ( Z ) -3-chloroprop-2-en-1-ol
-  ( 3Z ) -penta-1,3-diene
-  ( Z ) -pent-3-en-1-yne
-  ( Z ) -but-2-en-1-ol
-  ( Z ) -3-bromoprop-2-en-1-ol
-  ( Z ) -but-2-enal
+ (E)-1-bromobut-2-ene
+ (E)-1-methoxyprop-1-ene
+ (E)-1-methylsulfanylprop-1-ene
+ (E)-but-2-enenitrile
+ (E)-but-2-en-1-ol
+ (E)-1-chlorobut-2-ene
+ (E)-pent-3-en-1-yne
+ (2R)-but-3-yn-2-ol
+ (2S)-2-chloropropan-1-ol
+ (E)-3-bromoprop-2-en-1-ol
+ (Z)-1-methoxyprop-1-ene
+ (Z)-but-2-enenitrile
+ (Z)-3-chloroprop-2-en-1-ol
+ (3Z)-penta-1,3-diene
+ (Z)-pent-3-en-1-yne
+ (Z)-but-2-en-1-ol
+ (Z)-3-bromoprop-2-en-1-ol
+ (Z)-but-2-enal
  azetidin-3-ol
  azetidin-3-one
  azetidin-3-amine
  3-hydroxypropylazanium
-  ( 2R ) -2-chloropropanenitrile
+ (2R)-2-chloropropanenitrile
  amino-imino-methoxyazanium
  methylthiourea
- 1,1,1,2,2-pentadeuterio-2- ( 1,1,2,2,2-pentadeuterioethoxy ) eth...
+ 1,1,1,2,2-pentadeuterio-2-(1,1,2,2,2-pentadeuterioethoxy)eth...
  aminothiourea
- iodo ( trimethyl ) -$l^{4}-sulfane
- chloro ( isothiocyanato ) methane
- deuterio 2,2-dideuterio-2- ( dideuterioamino ) acetate
- 1,1,1,3,3,3-hexadeuterio-2-deuteriooxy-2- ( trideuteriomethyl ) ...
+ iodo(trimethyl)-$l^{4}-sulfane
+ chloro(isothiocyanato)methane
+ deuterio 2,2-dideuterio-2-(dideuterioamino)acetate
+ 1,1,1,3,3,3-hexadeuterio-2-deuteriooxy-2-(trideuteriomethyl)...
  deuterio 2,2,3,3,3-pentadeuteriopropanoate
-  ( 2R ) -butan-2-amine
- hydroxymethylidene ( dimethyl ) azanium
+ (2R)-butan-2-amine
+ hydroxymethylidene(dimethyl)azanium
  1,1,1,2,2,3,3,4,4-nonadeuterio-4-deuteriooxybutane
  2,3,4,5-tetradeuteriofuran
- fluoro ( fluoromethoxy ) methane
+ fluoro(fluoromethoxy)methane
  2-chloro-1,1-difluoroethane
- difluoro ( diiodo ) methane
- dimethyl ( methylsulfanyl ) sulfanium
+ difluoro(diiodo)methane
+ dimethyl(methylsulfanyl)sulfanium
  1-bromobut-2-yne
  isocyanocyclopropane
  propanethioamide
- 2- ( iodomethyl ) aziridine
+ 2-(iodomethyl)aziridine
  iodomethylcyclopropane
- N- ( dibromomethylidene ) hydroxylamine
+ N-(dibromomethylidene)hydroxylamine
  O-propylhydroxylamine
  O-propan-2-ylhydroxylamine
  aminocarbamodithioic acid
  butylphosphane
- difluoro ( methoxy ) phosphane
- dichloro ( ethenyl ) phosphane
- dibromo ( ethyl ) phosphane
- methoxy ( dimethyl ) sulfanium
+ difluoro(methoxy)phosphane
+ dichloro(ethenyl)phosphane
+ dibromo(ethyl)phosphane
+ methoxy(dimethyl)sulfanium
  3-phosphanylpropanenitrile
  ethenylphosphinic acid
- dibromo ( ethenyl ) phosphane
+ dibromo(ethenyl)phosphane
  methyl sulfite
  methylidenethiourea
  methylcarbamodithioic acid
@@ -934,8 +933,8 @@
  N-methylethanethioamide
  hydroxythiourea
  aziridine-2,3-dithione
-  ( 2R,3S ) -2-chloro-3-methyloxirane
-  ( Z ) -2-chloroprop-1-en-1-ol
+ (2R,3S)-2-chloro-3-methyloxirane
+ (Z)-2-chloroprop-1-en-1-ol
  3-hydroxyprop-2-enenitrile
  iodomethyl thiocyanate
  N-phosphinoylethanamine
@@ -943,16 +942,16 @@
  2-iminoacetic acid
  1,3-oxathiole
  N-hydroxyethanimine oxide
- N,N,2,2-tetradeuterio-2- ( dideuterioamino ) acetamide
+ N,N,2,2-tetradeuterio-2-(dideuterioamino)acetamide
  N-hydroxy-N-methylmethanethioamide
  2-iodoacetyl chloride
  propanoyloxidanium
  aminomethylphosphinic acid
  methylphosphonamidic acid
  propan-2-yloxyazanium
- O- ( aminooxymethyl ) hydroxylamine
+ O-(aminooxymethyl)hydroxylamine
  difluoromethanediol
-  ( 2-chloroacetyl ) oxidanium
+ (2-chloroacetyl)oxidanium
  prop-2-enimidamide
  cyclopenta-1,3-diene
  2-fluoroethanimidamide
@@ -961,7 +960,7 @@
  2-methylpropan-1-olate
  3-fluoroazetidine
  3-oxoprop-1-en-1-olate
- bromomethylidene ( dimethyl ) azanium
+ bromomethylidene(dimethyl)azanium
  pyrrolidin-1-ium
  oxaldehydate
  butylazanium
@@ -978,8 +977,8 @@
  N-aminocarbamodithioate
  1H-pyrrol-1-ium
  N,N'-dimethylmethanimidamide
-  ( 2-aminoacetyl ) oxidanium
-  ( diaminomethylideneamino ) azanium
+ (2-aminoacetyl)oxidanium
+ (diaminomethylideneamino)azanium
  1,1-difluoro-2-iodoethane
  tert-butylazanium
  1H-pyrazol-1-ium
@@ -989,29 +988,29 @@
  2,3-dihydro-1H-pyrazole
  3-bromoprop-2-en-1-ol
  2-iodoethanimidamide
- dichloro ( methylsulfanyl ) methane
+ dichloro(methylsulfanyl)methane
  amino hydrogen carbonate
  2-sulfanylprop-2-enenitrile
-  ( 2-hydroxyacetyl ) oxidanium
+ (2-hydroxyacetyl)oxidanium
  3-phosphanylpropylphosphane
  N-formylmethanimidate
-  ( carbamoylamino ) azanium
+ (carbamoylamino)azanium
  1H-imidazol-1-ium
-  ( 2-amino-2-oxoethyl ) azanium
+ (2-amino-2-oxoethyl)azanium
  azaniumyloxymethoxyazanium
  N-methylcarbamodithioate
-  ( 2-sulfaniumylacetyl ) oxidanium
-  [ amino ( methylsulfanyl ) methylidene ] azanium
+ (2-sulfaniumylacetyl)oxidanium
+ [amino(methylsulfanyl)methylidene]azanium
  2-aminopropan-2-ol
  2-methylpropan-2-olate
  methyl carbonate
  cyanoiminomethylideneazanide
-  ( chloromethylamino ) methanol
+ (chloromethylamino)methanol
  2-hydroxypropylazanium
  1H-1,2,4-triazol-4-ium
  2-bromoethanimidamide
  2,3-difluorooxirane
-  ( hydroxy-methyl-oxo-$l^{6}-sulfanylidene ) oxidanium
+ (hydroxy-methyl-oxo-$l^{6}-sulfanylidene)oxidanium
  trifluoromethanolate
  2-bromoethanethioic S-acid
  2-iodoethanethioic S-acid
@@ -1035,102 +1034,102 @@
  1,2,4-triazolidine
  methoxymethanediol
  2-fluoroethane-1,1-diol
- 1,4-dioxaspiro [ 2.2 ] pentane
+ 1,4-dioxaspiro[2.2]pentane
  2,3-dihydro-1H-imidazole
  1,2,3-triaza-4-azanidacyclopentane
  tetrazolidine
- amino ( diaminomethylidene ) azanium
+ amino(diaminomethylidene)azanium
  propoxyazanium
- 1- ( methylamino ) ethanol
+ 1-(methylamino)ethanol
  butan-2-ylazanium
  ethane-1,1,2-triol
  dimethylaminomethanethiol
  N',N'-dimethylmethanediamine
- dimethyl ( sulfanylmethylidene ) azanium
+ dimethyl(sulfanylmethylidene)azanium
  prop-2-yne-1,1-diol
  prop-2-ene-1,1-diol
  methoxymethanethioate
  methoxymethanethioic S-acid
  methyl-oxido-oxo-sulfanylidene-$l^{6}-sulfane
  hydroxy-methyl-oxo-sulfanylidene-$l^{6}-sulfane
- 1,2,4,5-tetraoxaspiro [ 2.2 ] pentane
+ 1,2,4,5-tetraoxaspiro[2.2]pentane
  1-azaniumylpropan-2-ylazanium
  1-aminopropan-1-ol
  2-azaniumylacetate
  cyanoiodanuidylformonitrile
  aminomethylcyanamide
  oxolan-1-ium
- 3-methylbicyclo [ 1.1.0 ] butane
- ethyl ( dimethyl ) azanium
-  ( Z ) -1,3-dichloroprop-1-ene
-  ( E ) -3-chloroprop-2-enal
-  ( E ) -3-hydroxyprop-2-enal
+ 3-methylbicyclo[1.1.0]butane
+ ethyl(dimethyl)azanium
+ (Z)-1,3-dichloroprop-1-ene
+ (E)-3-chloroprop-2-enal
+ (E)-3-hydroxyprop-2-enal
  2H-imidazole
  aminomethylphosphonous acid
  dichloromethanediamine
-  ( Z ) -2-bromobut-2-ene
-  ( Z ) -pent-2-ene
-  ( E ) -pent-2-ene
+ (Z)-2-bromobut-2-ene
+ (Z)-pent-2-ene
+ (E)-pent-2-ene
  dithiolan-1-ium
  dithiiran-3-ylmethanol
-  ( Z ) -but-2-ene-2-thiol
- 1- ( hydroxyamino ) ethenol
+ (Z)-but-2-ene-2-thiol
+ 1-(hydroxyamino)ethenol
  2-fluoro-1-$l^{1}-oxidanylethanone
-  ( Z ) -1-bromobut-2-ene
+ (Z)-1-bromobut-2-ene
  pyrrole
-  ( ethyl-$l^{2}-azanyl ) ethane
+ (ethyl-$l^{2}-azanyl)ethane
  1-$l^{1}-sulfanyl-N-methylmethanethioamide
  3-$l^{1}-oxidanylprop-2-enal
  2-amino-1-$l^{1}-oxidanylethanone
  1-$l^{1}-oxidanylprop-2-en-1-one
- trifluoro ( $l^{1}-sulfanyl ) methane
+ trifluoro($l^{1}-sulfanyl)methane
  N'-hydroxyethanimidamide
  2-$l^{1}-oxidanylbutane
-  ( E ) -3-aminoprop-2-enenitrile
-  ( 1Z ) -buta-1,3-dien-1-ol
+ (E)-3-aminoprop-2-enenitrile
+ (1Z)-buta-1,3-dien-1-ol
  pent-1-ene
-  ( Z ) -N-methoxyethanimine
-  ( Z ) -1-methylsulfanylprop-1-ene
-  ( Z ) -1-chlorobut-1-en-3-yne
-  ( E ) -1-chlorobut-1-en-3-yne
-  ( 1E ) -1-bromobuta-1,3-diene
-  ( E ) -2-bromobut-2-ene
-  ( E ) -1-bromobut-1-ene
-  ( Z ) -1-chlorobut-1-ene
+ (Z)-N-methoxyethanimine
+ (Z)-1-methylsulfanylprop-1-ene
+ (Z)-1-chlorobut-1-en-3-yne
+ (E)-1-chlorobut-1-en-3-yne
+ (1E)-1-bromobuta-1,3-diene
+ (E)-2-bromobut-2-ene
+ (E)-1-bromobut-1-ene
+ (Z)-1-chlorobut-1-ene
  1,2,4$l^{2}-triazole
-  ( E ) -2-chlorobut-2-ene
+ (E)-2-chlorobut-2-ene
  furan
- N- [  ( Z ) -ethylideneamino ] methanamine
-  ( E ) -1,2-dichloroprop-1-ene
-  ( Z ) -1-chloro-1,2-difluoroethene
-  ( E ) -1-chloro-2-methylsulfanylethene
-  ( Z ) -1,2-dichloro-1-fluoroethene
-  ( Z ) -1-bromo-1,2-difluoroethene
+ N-[(Z)-ethylideneamino]methanamine
+ (E)-1,2-dichloroprop-1-ene
+ (Z)-1-chloro-1,2-difluoroethene
+ (E)-1-chloro-2-methylsulfanylethene
+ (Z)-1,2-dichloro-1-fluoroethene
+ (Z)-1-bromo-1,2-difluoroethene
  2-$l^{2}-azanyl-2-methylpropane
  methyl acetate
  2-$l^{1}-sulfanyl-2-methylpropane
  imidazole
  1,3-thiazole
- 1,2-bis ( $l^{1}-oxidanyl ) ethanone
+ 1,2-bis($l^{1}-oxidanyl)ethanone
  cyclopenta-1,2,4-triene
-  ( 1Z ) -1-chlorobuta-1,3-diene
-  ( 1E ) -1-chlorobuta-1,3-diene
-  ( Z ) -but-2-en-2-ol
-  ( Z ) -2-chlorobut-2-ene
-  ( E ) -but-2-en-2-ol
-  ( E ) -1-chloro-1,2-difluoroethene
-  ( Z ) -1-bromobut-1-ene
-  ( Z ) -1-chlorobut-2-ene
-  ( E ) -but-1-en-1-ol
-  ( Z ) -1,2-dichloroprop-1-ene
-  ( E ) -1-chlorobut-1-ene
+ (1Z)-1-chlorobuta-1,3-diene
+ (1E)-1-chlorobuta-1,3-diene
+ (Z)-but-2-en-2-ol
+ (Z)-2-chlorobut-2-ene
+ (E)-but-2-en-2-ol
+ (E)-1-chloro-1,2-difluoroethene
+ (Z)-1-bromobut-1-ene
+ (Z)-1-chlorobut-2-ene
+ (E)-but-1-en-1-ol
+ (Z)-1,2-dichloroprop-1-ene
+ (E)-1-chlorobut-1-ene
  1-bromo-1,2-difluoroethane
  1-bromo-1-fluoropropane
-  ( 1Z ) -N-hydroxyethanimidoyl chloride
+ (1Z)-N-hydroxyethanimidoyl chloride
  2,3-dihydro-1H-phosphole
  pentane
  thiophene
- 1,3-bis ( $l^{2}-azanyl ) propane
+ 1,3-bis($l^{2}-azanyl)propane
  2-$l^{2}-azanylacetic acid
  1-$l^{2}-azanylbutane
  but-3-en-2-one
@@ -1141,7 +1140,7 @@
  $l^{2}-azanylcyclobutane
  1-$l^{2}-azanylpropan-1-one
  1-$l^{2}-azanyl-2-methylpropane
-  ( E ) -but-2-ene-2-thiol
+ (E)-but-2-ene-2-thiol
  methyl $l^{1}-oxidanylformate
  $l^{1}-oxidanylsulfonylmethane
  1-$l^{1}-oxidanyl-2-methoxyethane
@@ -1154,37 +1153,37 @@
  1-nitroethane
  1-$l^{1}-oxidanyl-2-methylpropane
  aziridine-2,3-dione
-  ( E ) -3-hydroxyprop-2-enenitrile
+ (E)-3-hydroxyprop-2-enenitrile
  1-nitroethane
-  ( E ) -3-oxoprop-1-en-1-olate
-  ( E ) -3-chloroprop-1-en-1-ol
-  ( NZ ) -N-prop-2-enylidenehydroxylamine
-  ( Z ) -1,3-dibromoprop-1-ene
+ (E)-3-oxoprop-1-en-1-olate
+ (E)-3-chloroprop-1-en-1-ol
+ (NZ)-N-prop-2-enylidenehydroxylamine
+ (Z)-1,3-dibromoprop-1-ene
  carboxyoxyazanium
- methylidyne ( prop-2-enyl ) azanium
- methylidyne ( propyl ) azanium
+ methylidyne(prop-2-enyl)azanium
+ methylidyne(propyl)azanium
  acetyloxyazanium
-  ( E ) -but-1-en-1-olate
+ (E)-but-1-en-1-olate
  hydroxy-methoxy-oxophosphanium
- hydroxy- ( methylamino ) -oxoazanium
+ hydroxy-(methylamino)-oxoazanium
  1-aminopropylideneazanium
  chloromethyl-hydroxy-oxophosphanium
  ethenyl-hydroxy-oxophosphanium
-  ( E ) -1-chloro-2-methoxyethene
-  ( E ) -1-bromo-3-chloroprop-1-ene
- ethyl ( hydroxyphosphanylidene ) azanium
+ (E)-1-chloro-2-methoxyethene
+ (E)-1-bromo-3-chloroprop-1-ene
+ ethyl(hydroxyphosphanylidene)azanium
  N-phosphorosoethanamine
  aminomethyl-hydroxy-oxophosphanium
  aminomethyl-oxido-oxophosphanium
- chloromethyl ( dimethyl ) sulfanium
-  ( E ) -1,3-dibromoprop-1-ene
+ chloromethyl(dimethyl)sulfanium
+ (E)-1,3-dibromoprop-1-ene
  ethyl-hydroxy-oxophosphanium
- hydroxy ( trimethyl ) phosphanium
- trihydroxy ( methyl ) phosphanium
+ hydroxy(trimethyl)phosphanium
+ trihydroxy(methyl)phosphanium
  cyclopentene
  dimethyl-methylidene-oxo-$l^{6}-sulfane
  methanidyl-dimethyl-methylidene-$l^{5}-phosphane
-  ( 1E ) -buta-1,3-diene-1-thiol
+ (1E)-buta-1,3-diene-1-thiol
  1,1-dimethylphosphiran-1-ium
- dimethyl-bis ( sulfanyl ) phosphanium
- dihydroxy ( dimethyl ) phosphanium
+ dimethyl-bis(sulfanyl)phosphanium
+ dihydroxy(dimethyl)phosphanium
