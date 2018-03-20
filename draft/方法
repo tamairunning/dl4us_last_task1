@@ -13,6 +13,8 @@ PubChemデータベースのAdvanced Searchから、ElementとしてC（炭素�
 IUPAC名は、母核部と各官能基を記述している要素に形態素分解を行った。形態素分解は、pythonのre.sub関数を用いて、
 母核・官能基リストについて、前後にスペースを加えたものに置換し、最後に連続したスペースを１つのスペースに変換して行った。
 母核・官能基のリストは以下の通りである、。
+methane, ethane, propane, butane, pentane, hexane, heptane, octane, nonane, decane, methyl, ethyl, propil, butyl, pentyl, hexyl, heptyl, ethene, propene, butene, pentene, hexene, heptene, octene, nonene, decene, ethyne, propyne, butyne, pentyne, hexyne, heptyne, octyne, nonyne, decyne, chloro, fluoro, bromo, iodo, oxo, hydro, amino, imino, hydroxy, phenyl, carboxyl, aldehyde, keto, nitro, sulfo, benzyl, formyl, acetyl, amide, amine, sulfanyl, chloride, methoxy, ethoxy, propoxy, butoxy, benzoyl, nitrile, cyclo, dione, azo, vinyl, ethenyl, allyl, propenyl, carbamate, peroxy
+また、「-」や「,」、かっこの前後にもスペースを入れ、それらも1単語として扱うようにした。
 
 （メモ）
 PubChem
@@ -20,6 +22,7 @@ PubChem
 2005年作成の、Cを含む重原子3個以上6個以下、リピンスキールールを満たすファイル、計5789原子データ
 （google driveにあるキャプション数：5771(1130+746+1190+857+1172+676)
  3/20に取り直すと5787（1132+752+1195+858+1173+677）で微妙に合わない！）
+ 取り直したものも、IUPAC名が足りない、、、IUPAC名がないものも存在。）
 
 PubChemからデータを取ってきて、画像とSummary情報を得て
 Summary情報からIUPAC名を抽出し、リスト化した。
