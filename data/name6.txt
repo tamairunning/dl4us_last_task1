@@ -24,7 +24,7 @@
  1-bromopentane
  1,4-dichlorobutane
  pentane-1-thiol
-  ( ethyldisulfanyl ) ethane
+ (ethyldisulfanyl)ethane
  cyclohexene
  1,1,2,2-tetrafluoroethene
  bromocyclopentane
@@ -112,12 +112,12 @@
  4-methylcyclopentene
  2-methylthiolane
  3-bromopentane
- 3-chloro-2- ( chloromethyl ) prop-1-ene
+ 3-chloro-2-(chloromethyl)prop-1-ene
  2-methylbutane-1-thiol
- 1- ( methyldisulfanyl ) propane
+ 1-(methyldisulfanyl)propane
  3,3,3-trichloroprop-1-ene
  hexa-1,3,5-triene
- bis ( methylsulfanyl ) methanethione
+ bis(methylsulfanyl)methanethione
  propylcyclopropane
  1,1,3-trichloroprop-1-ene
  1,4-dichlorobuta-1,3-diene
@@ -133,7 +133,7 @@
  2,3-dibromobutane
  2-methyl-1,3-dithiolane
  1,1-dichlorobuta-1,3-diene
- 1,2-bis ( methylsulfanyl ) ethane
+ 1,2-bis(methylsulfanyl)ethane
  2,3-dichlorobutane
  1,1,1-trichloropropane
  1,1-dichloro-1-fluoropropane
@@ -152,18 +152,18 @@
  2-ethylsulfanylethanethiol
  hex-2-yne
  1,2-dichlorobuta-1,3-diene
-  ( 1E,3E ) -1,4-dichlorobuta-1,3-diene
+ (1E,3E)-1,4-dichlorobuta-1,3-diene
  cyclohexa-1,2-diene
  1,4-dichlorobut-1-ene
  1-bromo-2,3-dichloropropane
  3-bromo-1,1-dichloropropane
  2,3,3-trichloroprop-1-ene
  5-chlorocyclopenta-1,3-diene
-  ( 3E ) -hexa-1,3-diene
+ (3E)-hexa-1,3-diene
  4-methyl-1,3-dithiolane
  1-bromo-2-chlorobut-2-ene
  1,1-dibromo-2-chloropropane
-  ( E ) -1,1,1-trideuterio-2-methylpent-2-ene
+ (E)-1,1,1-trideuterio-2-methylpent-2-ene
  4,4-dichlorobuta-1,2-diene
  4,4-dichlorobut-1-yne
  1,4-dichlorobuta-1,2-diene
@@ -174,12 +174,12 @@
  dichloro-ethyl-sulfanylidene-$l^{5}-phosphane
  butane-1,2-dithiol
  pentane-2-thiol
- 3- ( methyldisulfanyl ) prop-1-ene
+ 3-(methyldisulfanyl)prop-1-ene
  3-methylpenta-1,4-diene
  1,1,2,2-tetrabromoethene
  3-iodothiophene
  1-methylcyclopenta-1,3-diene
- bicyclo [ 3.1.0 ] hexane
+ bicyclo[3.1.0]hexane
  1,1,1-trifluoro-2-iodoethane
  1,1,2-trifluoro-2-iodoethene
  5-fluoropent-1-ene
@@ -188,13 +188,13 @@
  1,1,1-trifluoropropane
  trifluoromethyl thiohypochlorite
  2-bromo-2-methylbutane
-  ( 2R ) -1-bromo-2-methylbutane
+ (2R)-1-bromo-2-methylbutane
  dithiole-3-thione
  1,3-dichloro-2-methylpropane
  pentane-3-thiol
  hexa-1,5-diyne
  3,3,3-trifluoroprop-1-yne
- chloro ( diethyl ) phosphane
+ chloro(diethyl)phosphane
  1,1,2-trichloro-1-fluoroethane
  1-bromo-3-methylbut-2-ene
  ethyl ethanedithioate
@@ -210,22 +210,22 @@
  3-methylidenepent-1-yne
  2,2-dimethylpropane-1-thiol
  3-iodopentane
-  ( 2R,3R ) -2,3-dichlorobutane
-  ( 2S,3S ) -2,3-dichlorobutane
+ (2R,3R)-2,3-dichlorobutane
+ (2S,3S)-2,3-dichlorobutane
  1,4-dibromobut-2-yne
  1,1,1-trichloro-2-fluoroethane
-  [ dichloro ( fluoro ) methyl ]  thiohypochlorite
+ [dichloro(fluoro)methyl] thiohypochlorite
  hex-3-en-1-yne
- dimethylphosphanyl ( dimethyl ) phosphane
+ dimethylphosphanyl(dimethyl)phosphane
  chloro-ethyl-methyl-sulfanylidene-$l^{5}-phosphane
  prop-1-en-2-ylcyclopropane
  propane-1,2,3-trithiol
  1,1-dibromo-2,2-difluoroethene
  1,2-dibromo-1,2-dichloroethane
  butane-1,4-dithiol
-  ( methyltetrasulfanyl ) methane
+ (methyltetrasulfanyl)methane
  1-bromo-4-chlorobutane
- 1,1-bis ( methylsulfanyl ) ethane
+ 1,1-bis(methylsulfanyl)ethane
  3-methylpenta-1,2-diene
  thiophene-3-thiol
  1-chloro-4-iodobutane
@@ -234,22 +234,22 @@
  5-chloropent-1-yne
  1,2,2-tribromopropane
  1-iodo-2,2-dimethylpropane
-  ( ethenyldisulfanyl ) ethene
+ (ethenyldisulfanyl)ethene
  1-bromopent-2-yne
  1,1,2-tribromopropane
  2,3-dibromobut-2-ene
  3-chlorothiophene
  1-chloropent-2-yne
- 2- ( chloromethyl ) but-1-ene
- 2- ( bromomethyl ) buta-1,3-diene
+ 2-(chloromethyl)but-1-ene
+ 2-(bromomethyl)buta-1,3-diene
  1-bromo-1-chloro-2,2-difluoroethane
  1-chloro-1,2,2-trifluoroethane
  2-methylsulfanylbutane
-  ( methyldisulfanyl ) -methylsulfanylmethane
+ (methyldisulfanyl)-methylsulfanylmethane
  1-ethyl-1-methylcyclopropane
  1-bromo-3-chloro-2-methylpropane
-  ( 2R,3S ) -2,3-dibromobutane
- bicyclo [ 2.2.0 ] hexa-2,5-diene
+ (2R,3S)-2,3-dibromobutane
+ bicyclo[2.2.0]hexa-2,5-diene
  1,2-dichloro-2-fluoropropane
  2-chloro-1,1-difluoropropane
  3,4-dichlorocyclobutene
@@ -267,31 +267,31 @@
  deuteriobenzene
  1,1,2,2,3,3,4,4,5,5,6,6-dodecadeuteriocyclohexane
  cyclohexatriene
- tetrachloro ( methyl ) -$l^{5}-phosphane
+ tetrachloro(methyl)-$l^{5}-phosphane
  trithiane
  3-ethylsulfanylprop-1-ene
  hex-3-en-1,5-diyne
- 2- ( methyldisulfanyl ) propane
+ 2-(methyldisulfanyl)propane
  1,4-dichlorobuta-1,3-diyne
  1,1-dichloro-2-methylprop-1-ene
  1,1,3-tribromopropane
- spiro [ 2.3 ] hexane
- bicyclo [ 2.2.0 ] hexane
- bicyclo [ 2.1.1 ] hexane
+ spiro[2.3]hexane
+ bicyclo[2.2.0]hexane
+ bicyclo[2.1.1]hexane
  4H-thiopyran
  1,4-dithiine
  2-fluorothiophene
- trifluoro ( methylsulfanyl ) methane
+ trifluoro(methylsulfanyl)methane
  fulvene
  dithiane
  hexa-1,2-diene
  hexa-2,3-diene
- bicyclo [ 3.1.0 ] hex-2-ene
- 1,2-bis ( methylsulfanyl ) ethene
- bicyclo [ 2.1.1 ] hex-2-ene
+ bicyclo[3.1.0]hex-2-ene
+ 1,2-bis(methylsulfanyl)ethene
+ bicyclo[2.1.1]hex-2-ene
  3-methylpent-1-yne
  2-methylpent-1-en-3-yne
- 1,3-dimethylbicyclo [ 1.1.0 ] butane
+ 1,3-dimethylbicyclo[1.1.0]butane
  3-methylidenecyclopentene
  1-chlorocyclopentene
  fluorocyclopentane
@@ -307,7 +307,7 @@
  hexane
  hexa-2,4-diyne
  2-methylpenta-2,3-diene
- bicyclo [ 2.2.0 ] hex-2-ene
+ bicyclo[2.2.0]hex-2-ene
  cyclohexane
  1,2,3-trimethylidenecyclopropane
  1-methylsulfanylbut-1-en-3-yne
@@ -346,14 +346,14 @@
  4-methylpent-2-yne
  2-methylpentane
  1,1,1,2,2,3,3,4,4,5,5,6,6,6-tetradecadeuteriohexane
- chloro-bis ( chloromethyl ) phosphane
+ chloro-bis(chloromethyl)phosphane
  3-methylpenta-1,2,4-triene
  cyclopropylidenecyclopropane
  1,3-dibromo-2-methylpropane
  1-iodo-2-methylbutane
  hexa-1,2,4,5-tetraene
- methyl-bis ( methylsulfanyl ) phosphane
- bicyclo [ 2.2.0 ] hex-1 ( 4 ) -ene
+ methyl-bis(methylsulfanyl)phosphane
+ bicyclo[2.2.0]hex-1(4)-ene
  4-bromopent-1-ene
  hexa-1,2-dien-5-yne
  hexa-1,3,4-triene
@@ -367,21 +367,21 @@
  3-methyl-2,5-dihydrothiophene
  2,2-dibromobutane
  ethynylcyclobutane
- 1,1-bis ( methylsulfanyl ) ethene
+ 1,1-bis(methylsulfanyl)ethene
  2-methyl-3-methylsulfanylprop-1-ene
  1,2-diiodobutane
  1,4-diiodobuta-1,3-diyne
  2,2,3-trimethylthiirane
  2-bromo-3-fluorobutane
- 1,2-bis ( methylsulfanyl ) ethyne
+ 1,2-bis(methylsulfanyl)ethyne
  1-ethylsulfanylprop-1-ene
  1,1-dibromobutane
  3-cycloprop-2-en-1-ylcyclopropene
  1,1,1,6,6,6-hexadeuteriohexa-2,4-diyne
  1,4-difluorobuta-1,3-diyne
- tetrafluoro ( methylidene ) -$l^{6}-sulfane
+ tetrafluoro(methylidene)-$l^{6}-sulfane
  3-ethenyl-3-methylcyclopropene
- spiro [ 2.3 ] hex-1-ene
+ spiro[2.3]hex-1-ene
  1,6-dideuteriohexa-1,5-diyne
  3,4-dimethyldithiete
  cyclopenta-2,4-diene-1-thione
@@ -392,26 +392,26 @@
  benzene
  2-bromo-1,3-dichloropropane
  1,3-dibromo-2-chloropropane
-  ( 2R ) -1,2-dibromo-3-chloropropane
-  ( 2S ) -1,2-dibromo-3-chloropropane
+ (2R)-1,2-dibromo-3-chloropropane
+ (2S)-1,2-dibromo-3-chloropropane
  4-chloro-2-methylbut-1-ene
  1-chloro-2-ethenylsulfanylethane
  2-chloro-1,1,1-trifluoroethane
  but-2-ene-2,3-dithiol
  2,2-dimethylthietane
-  ( E ) -4-methylpent-2-ene
+ (E)-4-methylpent-2-ene
  1,2-dibromo-1,2-difluoroethane
  2-bromo-1,1,1-trichloroethane
- chloro-bis ( methylsulfanyl ) methane
+ chloro-bis(methylsulfanyl)methane
  1,2-dibromo-3-chloro-1,1,3,3-tetradeuteriopropane
  1-methylthiolan-1-ium
- diethyl ( methyl ) sulfanium
+ diethyl(methyl)sulfanium
  3-bromopent-2-ene
  4-methyldithiolane
  2-methylpropane-1,3-dithiol
  1,2-dibromo-2-methylpropane
  methyl propanedithioate
- 6-thiabicyclo [ 3.1.0 ] hexane
+ 6-thiabicyclo[3.1.0]hexane
  1-bromo-2-ethylsulfanylethane
  ethylcyclobutane
  2-methyl-1-methylsulfanylpropane
@@ -429,15 +429,15 @@
  1,3-dimethylcyclobutane
  2-fluoranylthiophene
  3-chloropropane-1,2-dithiol
- 2- ( methylsulfanylmethyl ) thiirane
-  ( 3-methylthiiran-2-yl ) methanethiol
- 2- ( thiiran-2-yl ) ethanethiol
- 1- ( thiiran-2-yl ) ethanethiol
+ 2-(methylsulfanylmethyl)thiirane
+ (3-methylthiiran-2-yl)methanethiol
+ 2-(thiiran-2-yl)ethanethiol
+ 1-(thiiran-2-yl)ethanethiol
  1-bromo-4-chlorobut-2-ene
  hex-2-en-4-yne
  hex-1-en-5-yne
  4-chloropent-2-ene
- dichloro ( propyl ) phosphane
+ dichloro(propyl)phosphane
  1,2-dimethylcyclobutane
  1-methylsulfanylbut-1-ene
  2-iodo-3-methylbutane
@@ -454,18 +454,17 @@
  1,2,3-trimethylcyclopropane
  2-methyl-1-methylsulfanylprop-1-ene
  3-bromopent-1-ene
- 1- ( methyldisulfanyl ) prop-1-ene
+ 1-(methyldisulfanyl)prop-1-ene
  2-chloro-3-methylbutane
  3-ethylsulfanylprop-1-yne
  thiophene-2-thiol
- pentafluoro-$l^{5}-iodane
  1,3-diiodocyclobutane
  5-chloropent-1-ene
  1,1,2,2,3,3-hexadeuteriocyclohexane
  1,1,1,2,2,3,3-heptadeuteriohexane
  prop-2-enylcyclopropane
  3,4-dihydrodithiine
-  ( methyltrisulfanyl ) ethane
+ (methyltrisulfanyl)ethane
  methylsulfanylmethylsulfanylethane
  3-methyldithiolane
  3-methylsulfanylpropane-1-thiol
@@ -473,22 +472,22 @@
  3-methyl-1,2,4-trithiolane
  4-methyltrithiolane
  2-bromo-3-methylbutane
- tert-butyl ( methylidene ) phosphane
+ tert-butyl(methylidene)phosphane
  4-methylpent-3-en-1-yne
  3-methylbut-3-ene-1-thiol
  4-bromopent-2-ene
- dichloro ( propan-2-yl ) phosphane
+ dichloro(propan-2-yl)phosphane
  1,1-dichlorobuta-1,2-diene
  3,4-dibromocyclobutene
- 1-bromo-2- ( chloromethyl ) cyclopropane
+ 1-bromo-2-(chloromethyl)cyclopropane
  4-chloro-3-methylbut-1-ene
  2-methylbut-3-ene-1-thiol
  1-bromo-4-iodobutane
  3,3-dimethylthietane
  2,4-dimethylthietane
- chloromethylsulfanyl ( methylsulfanyl ) methane
+ chloromethylsulfanyl(methylsulfanyl)methane
  butane-2,3-dithiol
- dimethyl ( 2-phosphanylethyl ) phosphane
+ dimethyl(2-phosphanylethyl)phosphane
  4-methylsulfanylbut-1-ene
  1,2-dichlorocyclobutane
  1,2-dimethyl-3-methylidenecyclopropane
@@ -505,12 +504,12 @@
  4-methylidenecyclopentene
  3-ethenylcyclobutene
  2-chloro-1,3-difluoropropane
- disulfanyl ( trifluoro ) methane
+ disulfanyl(trifluoro)methane
  1-methylsulfanylbuta-1,3-diene
  5-methyl-2,3-dihydrothiophene
  1-bromo-2-ethenylsulfanylethane
  1-bromo-3-chlorocyclobutane
- 1- ( chloromethylsulfanyl ) propane
+ 1-(chloromethylsulfanyl)propane
  1-bromo-2-chlorocyclobutane
  1-bromo-1-chlorocyclobutane
  1-bromo-1-chloro-2-fluorocyclopropane
@@ -522,7 +521,7 @@
  3-chloro-2-methylsulfanylprop-1-ene
  2,4-dibromobut-1-ene
  1,2-dibromobut-1-ene
- dichloro- ( chloromethyl ) -sulfanylidene-$l^{5}-phosphane
+ dichloro-(chloromethyl)-sulfanylidene-$l^{5}-phosphane
  1-bromo-1,2-dichlorocyclopropane
  tetrathiine
  tetrathiane
@@ -532,145 +531,145 @@
  1,1-dibromo-2-chlorocyclopropane
  2,2-dimethylpropylidenephosphane
  1,2-difluoro-1,2-diiodoethene
-  ( Z ) -1,3-dichlorobut-2-ene
-  ( E ) -hex-3-ene
-  ( 3E ) -3-methylpenta-1,3-diene
-  ( 3E ) -2-methylpenta-1,3-diene
-  ( 2E,4E ) -hexa-2,4-diene
-  ( E ) -hex-2-ene
-  ( E ) -1,4-dibromobut-2-ene
+ (Z)-1,3-dichlorobut-2-ene
+ (E)-hex-3-ene
+ (3E)-3-methylpenta-1,3-diene
+ (3E)-2-methylpenta-1,3-diene
+ (2E,4E)-hexa-2,4-diene
+ (E)-hex-2-ene
+ (E)-1,4-dibromobut-2-ene
  3,3-dichlorobut-1-ene
-  ( E ) -1,3-dichloro-2-methylprop-1-ene
-  ( E ) -1,4-dichlorobut-2-ene
-  ( E ) -3-methylpent-2-ene
-  ( Z ) -hex-3-ene
-  ( 2Z,4E ) -hexa-2,4-diene
-  ( Z ) -hex-2-ene
-  ( E ) -1,3-dichlorobut-2-ene
-  ( Z ) -3-methylpent-2-ene
-  ( 2R ) -1-iodo-2-methylbutane
+ (E)-1,3-dichloro-2-methylprop-1-ene
+ (E)-1,4-dichlorobut-2-ene
+ (E)-3-methylpent-2-ene
+ (Z)-hex-3-ene
+ (2Z,4E)-hexa-2,4-diene
+ (Z)-hex-2-ene
+ (E)-1,3-dichlorobut-2-ene
+ (Z)-3-methylpent-2-ene
+ (2R)-1-iodo-2-methylbutane
  bromomethylcyclobutane
  1,2-dibromo-1-chloro-1-fluoroethane
-  ( Z ) -1,2-dichloro-1,2-difluoroethene
+ (Z)-1,2-dichloro-1,2-difluoroethene
  iodomethylcyclobutane
  1,2-dibromo-3-fluoropropane
  1,1-difluorobut-1-ene
  3-bromo-1,1-difluoroprop-1-ene
- dichloro ( prop-2-enyl ) phosphane
- dibromo ( prop-2-enyl ) phosphane
+ dichloro(prop-2-enyl)phosphane
+ dibromo(prop-2-enyl)phosphane
  1-chloro-1,1,2-trifluoroethane
  2-chloro-2-fluoroethanethioyl fluoride
  1,3,3-trifluoroprop-1-ene
- bicyclo [ 2.2.0 ] hexa-1 ( 4 ) ,2,5-triene
-  ( E ) -1,2-dichloro-1,2-difluoroethene
+ bicyclo[2.2.0]hexa-1(4),2,5-triene
+ (E)-1,2-dichloro-1,2-difluoroethene
  1,1-dichlorobut-1-ene
  2-bromo-1-chloro-1,1-difluoroethane
- dimethyl ( prop-2-ynyl ) sulfanium
- 2-chloroethyl ( dimethyl ) sulfanium
- dimethyl ( methylsulfanylmethyl ) sulfanium
+ dimethyl(prop-2-ynyl)sulfanium
+ 2-chloroethyl(dimethyl)sulfanium
+ dimethyl(methylsulfanylmethyl)sulfanium
  2,2,2-trifluoroethanethiol
  1-chloropent-1-en-3-yne
  2-bromo-1,1-dichloropropane
- 4-methylbicyclo [ 2.1.0 ] pentane
+ 4-methylbicyclo[2.1.0]pentane
  1-methylthiophen-1-ium
  benzene
  cyclohexatriene
  ethene-1,1,2,2-tetrathiol
  3,6-dihydrodithiine
- 2,4-dimethylbicyclo [ 1.1.0 ] butane
+ 2,4-dimethylbicyclo[1.1.0]butane
  2,2-dimethylpropylidyne-$l^{5}-phosphane
- 2- ( disulfanyl ) -2-methylpropane
+ 2-(disulfanyl)-2-methylpropane
  2-dimethylphosphanylethanethiol
  ethane-1,1,2,2-tetrathiol
- ethanebis ( dithioate ) 
- ethanebis ( dithioic acid ) 
-  ( 2Z,4Z ) -hexa-2,4-diene
-  ( Z ) -4-methylpent-2-ene
-  [  ( Z ) -prop-1-enyl ] cyclopropane
-  ( Z ) -1,4-dibromobut-2-ene
+ ethanebis(dithioate)
+ ethanebis(dithioic acid)
+ (2Z,4Z)-hexa-2,4-diene
+ (Z)-4-methylpent-2-ene
+ [(Z)-prop-1-enyl]cyclopropane
+ (Z)-1,4-dibromobut-2-ene
  5-methylcyclopenta-1,3-diene
-  ( E ) -4-bromopent-2-ene
-  ( E ) -2,3-dibromobut-2-ene
-  [  ( E ) -prop-1-enyl ] cyclopropane
-  ( E ) -1-methylsulfanylbut-2-ene
+ (E)-4-bromopent-2-ene
+ (E)-2,3-dibromobut-2-ene
+ [(E)-prop-1-enyl]cyclopropane
+ (E)-1-methylsulfanylbut-2-ene
  2-methylpent-1-ene
  3-methylpent-1-ene
  hexa-2,3,4-triene
-  ( 4E ) -hexa-1,4-diene
-  ( 4Z ) -hexa-1,4-diene
-  ( 3E ) -5-bromopenta-1,3-diene
-  ( 3Z ) -3-methylpenta-1,3-diene
-  ( E ) -4-chloropent-2-ene
-  ( E ) -2-methylbut-2-ene-1-thiol
-  ( E ) -1-chloro-2-methylbut-2-ene
-  ( E ) -1-chloro-3-methylbut-1-ene
-  ( E ) -1-chloro-2-methylbut-1-ene
-  ( E ) -1- ( methyldisulfanyl ) prop-1-ene
-  ( E ) -1,4-dichlorobut-1-ene
-  ( 3E ) -hexa-1,3-dien-5-yne
-  ( E ) -hex-2-en-4-yne
-  ( Z ) -hex-3-en-1-yne
-  ( E ) -hex-3-en-1-yne
-  ( E ) -3-methylpent-3-en-1-yne
-  ( Z ) -3-methylpent-3-en-1-yne
-  ( 3Z ) -hexa-1,3,5-triene
-  ( 3E ) -hexa-1,3,5-triene
-  ( Z ) -hex-2-en-4-yne
-  ( 1E ) -1-methylsulfanylbuta-1,3-diene
-  ( Z ) -1-methylsulfanylbut-1-ene
-  ( E ) -1-methylsulfanylbut-1-ene
-  ( Z ) -1-bromo-2-chlorobut-2-ene
-  ( Z ) -1,2,3-trichloroprop-1-ene
-  ( E ) -1,2,3-trichloroprop-1-ene
-  ( E ) -1,2-bis ( methylsulfanyl ) ethene
+ (4E)-hexa-1,4-diene
+ (4Z)-hexa-1,4-diene
+ (3E)-5-bromopenta-1,3-diene
+ (3Z)-3-methylpenta-1,3-diene
+ (E)-4-chloropent-2-ene
+ (E)-2-methylbut-2-ene-1-thiol
+ (E)-1-chloro-2-methylbut-2-ene
+ (E)-1-chloro-3-methylbut-1-ene
+ (E)-1-chloro-2-methylbut-1-ene
+ (E)-1-(methyldisulfanyl)prop-1-ene
+ (E)-1,4-dichlorobut-1-ene
+ (3E)-hexa-1,3-dien-5-yne
+ (E)-hex-2-en-4-yne
+ (Z)-hex-3-en-1-yne
+ (E)-hex-3-en-1-yne
+ (E)-3-methylpent-3-en-1-yne
+ (Z)-3-methylpent-3-en-1-yne
+ (3Z)-hexa-1,3,5-triene
+ (3E)-hexa-1,3,5-triene
+ (Z)-hex-2-en-4-yne
+ (1E)-1-methylsulfanylbuta-1,3-diene
+ (Z)-1-methylsulfanylbut-1-ene
+ (E)-1-methylsulfanylbut-1-ene
+ (Z)-1-bromo-2-chlorobut-2-ene
+ (Z)-1,2,3-trichloroprop-1-ene
+ (E)-1,2,3-trichloroprop-1-ene
+ (E)-1,2-bis(methylsulfanyl)ethene
  3,3,3-trifluoroprop-1-yne
-  ( Z ) -1,2-dibromobut-1-ene
+ (Z)-1,2-dibromobut-1-ene
  3,3,3-trifluoroprop-1-ene
-  ( E ) -1-bromo-2-chloro-1,2-difluoroethene
-  ( E ) -1,2-difluoro-1,2-diiodoethene
+ (E)-1-bromo-2-chloro-1,2-difluoroethene
+ (E)-1,2-difluoro-1,2-diiodoethene
  1,1,1-trifluoropropane
-  ( E ) -1-bromo-4-chlorobut-2-ene
-  ( 3Z ) -hexa-1,3-diene
-  ( 3Z ) -2-methylpenta-1,3-diene
-  ( Z ) -hex-3-en-1,5-diyne
-  ( E ) -hex-3-en-1,5-diyne
-  ( 4E ) -hexa-1,2,4-triene
-  ( E ) -1-bromopent-2-ene
-  ( Z ) -hex-4-en-1-yne
-  ( E ) -hex-4-en-1-yne
-  ( 1E ) -1-chloro-2-methylbuta-1,3-diene
-  ( 1Z ) -1,2-dichlorobuta-1,3-diene
-  ( Z ) -1-ethylsulfanylprop-1-ene
-  ( Z ) -1-methylsulfanylbut-2-ene
-  ( E ) -1-bromo-2-methylbut-2-ene
-  ( Z ) -2-chloropent-2-ene
-  ( E ) -2-chloropent-2-ene
-  ( 3Z ) -hexa-1,3-dien-5-yne
-  ( E ) -1-ethylsulfanylprop-1-ene
-  ( Z ) -1-chloro-3-methylbut-1-ene
-  ( Z ) -1,2-bis ( methylsulfanyl ) ethene
+ (E)-1-bromo-4-chlorobut-2-ene
+ (3Z)-hexa-1,3-diene
+ (3Z)-2-methylpenta-1,3-diene
+ (Z)-hex-3-en-1,5-diyne
+ (E)-hex-3-en-1,5-diyne
+ (4E)-hexa-1,2,4-triene
+ (E)-1-bromopent-2-ene
+ (Z)-hex-4-en-1-yne
+ (E)-hex-4-en-1-yne
+ (1E)-1-chloro-2-methylbuta-1,3-diene
+ (1Z)-1,2-dichlorobuta-1,3-diene
+ (Z)-1-ethylsulfanylprop-1-ene
+ (Z)-1-methylsulfanylbut-2-ene
+ (E)-1-bromo-2-methylbut-2-ene
+ (Z)-2-chloropent-2-ene
+ (E)-2-chloropent-2-ene
+ (3Z)-hexa-1,3-dien-5-yne
+ (E)-1-ethylsulfanylprop-1-ene
+ (Z)-1-chloro-3-methylbut-1-ene
+ (Z)-1,2-bis(methylsulfanyl)ethene
  1-bromo-1,3-difluoropropane
  1-bromo-1,2,2-trifluoroethane
  1,3-dibromo-1-fluoropropane
  1,1,2-tribromo-2-fluoroethane
-  ( 2S ) -1-bromo-2-methylbutane
+ (2S)-1-bromo-2-methylbutane
  2-methylpentane
-  ( E ) -1-bromo-2-iodobut-2-ene
+ (E)-1-bromo-2-iodobut-2-ene
  methylcyclopentane
  hex-1-ene
  4-methylpent-1-ene
  2-methylpentane
  hex-1-yne
-  ( 2S ) -1-iodo-2-methylbutane
-  ( Z ) -1-bromo-2-iodobut-2-ene
-  ( Z ) -1-bromopent-2-ene
-  ( Z ) -1,3-dibromo-2-methylprop-1-ene
-  ( Z ) -1- ( methyldisulfanyl ) prop-1-ene
-  ( E ) -1,2,3-tribromoprop-1-ene
+ (2S)-1-iodo-2-methylbutane
+ (Z)-1-bromo-2-iodobut-2-ene
+ (Z)-1-bromopent-2-ene
+ (Z)-1,3-dibromo-2-methylprop-1-ene
+ (Z)-1-(methyldisulfanyl)prop-1-ene
+ (E)-1,2,3-tribromoprop-1-ene
  pentylphosphane
-  ( E ) -but-2-ene-2,3-dithiol
-  ( E ) -1,3,3-trifluoroprop-1-ene
-  ( E ) -1-chloropent-1-en-3-yne
-  ( E ) -1,3-dibromo-2-methylprop-1-ene
-  ( Z ) -1,2,3-tribromoprop-1-ene
- dimethyl ( propyl ) phosphane
+ (E)-but-2-ene-2,3-dithiol
+ (E)-1,3,3-trifluoroprop-1-ene
+ (E)-1-chloropent-1-en-3-yne
+ (E)-1,3-dibromo-2-methylprop-1-ene
+ (Z)-1,2,3-tribromoprop-1-ene
+ dimethyl(propyl)phosphane
