@@ -8,6 +8,7 @@
 1
 生成文: <s> n - di chloro phosphorylmethan amine </s>
 正解文: <s> n - di chloro phosphinothioylmethan amine </s>
+CID:519802(list5)
 2
 生成文: <s> ( e ) - 1 - bromo but - 1 - ene </s>
 正解文: <s> ( 1e ) - 1 - bromo buta - 1 , 3 - diene </s>
@@ -32,6 +33,7 @@
 9
 生成文: <s> 2 - fluoro propanoic acid </s>
 正解文: <s> 2 - fluoro propanoic acid </s>
+CID:256876(list4)
 
 （Train Dataだと）
 0
