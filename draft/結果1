@@ -15,6 +15,7 @@ CID:519802(list5)
 3
 生成文: <s> n - methyl carbamodithioate </s>
 正解文: <s> methyl n - methyl carbamodithioate </s>
+CID:3034518(list5)
 4
 生成文: <s> 3 - hydroxy - 3 - methyl propan - 1 - ol </s>
 正解文: <s> 3 - hydroxypropanimid amide </s>
