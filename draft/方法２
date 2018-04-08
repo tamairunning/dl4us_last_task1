@@ -53,7 +53,7 @@ print(vgg_test.shape)
 print(vgg_valid.shape)
 (283, 9, 9, 512)
 
-print(trainx_array.shape) # 回転して４倍に（一発でやるとメモリーエラーに！）
-
+print(trainx_array.shape) # 回転して４倍に（一発でやると80分かかった上にメモリーエラーに！）
+１つだけでも保存できず！（日曜の夜が原因？）
 
 
