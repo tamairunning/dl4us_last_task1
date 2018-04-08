@@ -9,6 +9,7 @@ im.rotate(90)
 im.rotate(180)
 im.rotate(270)
 の３つ（_2, _3, _4）を作成する〜データ４倍に！
+→実際には、画像ファイル名リストを読み込み、IUPACリストと合わせてテスト、バリデーション、トレーニングセットに分けた。
 
 from sklearn.model_selection import train_test_split
 
@@ -29,5 +30,18 @@ print(test_cap[0:10])
 print(test_img[0:10])
 ['12321', '519802', '5364337', '3034518', '4394752', '5461041', '19909', '44946', '450629', '256876']
 
+#リストの書き込み方法
+f = open('list.txt', 'w')
+for x in list:
+    f.write(str(x) + "\n")
+f.close()
 
+#リストの読み込み方法
+f = open("./list.txt","r")
+list = []
 
+for x in f:
+    list.append(x.rstrip("\n"))
+    #以下のようにしてしまうと、改行コードがlistに入ってしまうため注意
+    #list.append(x)
+f.close()
