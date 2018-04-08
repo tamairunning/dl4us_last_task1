@@ -45,3 +45,15 @@ for x in f:
     #以下のようにしてしまうと、改行コードがlistに入ってしまうため注意
     #list.append(x)
 f.close()
+
+(メモ）
+print(vgg_test.shape)
+(116, 9, 9, 512)
+
+print(vgg_valid.shape)
+(283, 9, 9, 512)
+
+print(trainx_array.shape) # 回転して４倍に（一発でやるとメモリーエラーに！）
+
+
+
