@@ -56,4 +56,15 @@ print(vgg_valid.shape)
 print(trainx_array.shape) # 回転して４倍に（一発でやると80分かかった上にメモリーエラーに！）
 １つだけでも保存できず！（日曜の夜が原因？）
 
+５つに分けて読み込み
+for i in range(1100):
+
+for i in range(1100, 2200):
+
+for i in range(2200, 3300):
+
+for i in range(3300, 4370):
+
+for i in range(4370, 5370):
+
 
