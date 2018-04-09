@@ -67,4 +67,12 @@ for i in range(3300, 4370):
 
 for i in range(4370, 5370):
 
+上記不要、やり直したら大丈夫だった。
+print(train_array1.shape)
+(5370, 300, 300, 3)
+print(vgg_train1.shape)
+(5370, 9, 9, 512)
+
+
+
 
