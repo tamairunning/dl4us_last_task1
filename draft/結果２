@@ -1,0 +1,79 @@
+0
+生成文: <s> ethenyl sulfanyl ethane </s>
+正解文: <s> ethenyl sulfanyl ethene </s>
+
+1
+生成文: <s> n - methyl tetra amine </s>
+正解文: <s> n - di chloro phosphinothioyl methan amine </s>
+
+2
+生成文: <s> ( 1e ) - 1 - bromo buta - 1 , 3 - di ene </s>
+正解文: <s> ( 1e ) - 1 - bromo buta - 1 , 3 - di ene </s>
+
+3
+生成文: <s> bis ( methyl sulfanyl ) methan imine </s>
+正解文: <s> methyl n - methyl carbamodithioate </s>
+
+4
+生成文: <s> 2 - amino butane - 1 , 3 - diol </s>
+正解文: <s> 3 - hydroxypropanimid amide </s>
+
+5
+生成文: <s> cyclo propene </s>
+正解文: <s> thiirene </s>
+
+6
+生成文: <s> 1 , 3 , 4 - thiadi azo l - 2 - amine </s>
+正解文: <s> 1 , 3 , 4 - thiadi azo l - 2 - amine </s>
+
+7
+生成文: <s> n - methyl - n - methyl carbamoyl fluoride </s>
+正解文: <s> di methyl carbamic acid </s>
+
+8
+生成文: <s> 2 - hydroxypropanoic acid </s>
+正解文: <s> propanoic acid </s>
+
+9
+生成文: <s> 2 - chloro propanoic acid </s>
+正解文: <s> 2 - fluoro propanoic acid </s>
+
+10
+生成文: <s> 1 - methyl sulfanyl prop - 1 - ene </s>
+正解文: <s> 1 - methyl sulfanyl prop - 1 - ene </s>
+
+11
+生成文: <s> 1 , 1 , 1 - tri fluoro ethane </s>
+正解文: <s> 1 , 1 - di fluoro - 1 - iodo ethane </s>
+
+12
+生成文: <s> 2 - ethyl aziridine - 1 - amine </s>
+正解文: <s> 2 - propylaziridine </s>
+
+13
+生成文: <s> prop - 1 - yne </s>
+正解文: <s> ethene thione </s>
+
+14
+生成文: <s> 2 - ( di methyl amino ) acetate </s>
+正解文: <s> 2 - ( di methyl amino ) acetic acid </s>
+
+15
+生成文: <s> 2 - $l^ { 1 } - oxidanyl propane </s>
+正解文: <s> propan - 2 - olate </s>
+
+16
+生成文: <s> ( e ) - 1 - fluoro prop - 1 - ene </s>
+正解文: <s> ( e ) - 1 - fluoro prop - 1 - ene </s>
+
+17
+生成文: <s> 2 , 3 - di hydro - 1h - pyrrole </s>
+正解文: <s> pyrrolidine </s>
+
+18
+生成文: <s> 2 - chloro - 1 , 1 - di chloro ethane </s>
+正解文: <s> ( 2r ) - 1 , 2 - di chloro propane </s>
+
+19
+生成文: <s> 4 - chloro phenol </s>
+正解文: <s> benzene - 1 , 4 - diol </s>
